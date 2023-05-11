@@ -1,0 +1,41 @@
+.topnav {
+background-color: #ffffff;
+overflow: hidden;
+font-family: monospace;
+top: 10px;
+}
+.topnav a {
+float: left;
+text-align: center;
+padding: 14px 45px;
+text-decoration: none;
+font-size: 17px;
+}
+.topnav a:hover {
+background-color:rgba(34, 85, 133, 0.448);
+color: white;
+}
+.topnav a.active {
+background-color: rgba(50, 132, 209, 0.377);
+color: white;
+border-radius: 69px;
+}
+body{
+    background-attachment: fixed;
+}
+p{
+    font-size: 24px; 
+}
+.tabs{
+border-radius: 69px;
+}
+#team{
+    float: right;
+    font-family: monospace;
+    font-size: 17px;
+    margin-right: 5%;
+}
+#robotche{
+    margin-left: 5%;
+}
+
