@@ -1,0 +1,59 @@
+*background colour:
+001D3E
+100%
+
+*text font:
+"Jura"
+white(FFFFFF)
+100%
+22pt
+
+*button fill (the oval):
+7DD8FF
+50%
+
+*buttons (nav bar):
+"Jura"
+white(FFFFFF)
+100%
+23pt
+Stroke - 1pt; white (FFFFFF); 100%; outside
+Effects - Drop shadow
+
+*heading "robotics in different fields":
+"Jura"
+white(FFFFFF)
+100%
+50pt
+stroke - 1pt; white (FFFFFF); 100%; outside
+
+
+*numbered list: 
+"Jura"
+white(FFFFFF)
+100%
+24pt
+
+
+*all headings:
+"Jura"
+30pt
+white (FFFFFF)
+100%
+Stroke - 0.5pt; white (FFFFFF); 100%; outside
+
+*line:
+Stroke - white(FFFFFF); 100%
+1.75pt
+
+*team name (BLUMA)
+"Jura"
+27pt
+white (FFFFFF)
+100%
+Stroke - 1pt; white (FFFFFF); 100%; outside
+
+
+
+Here is the link of "home page" in figma:
+https://www.figma.com/file/YPUTrSzkMPafOeNGNRsjUZ/general-knowledge-page?type=design&node-id=0-1&t=359O1MYoG862FOPm-0
