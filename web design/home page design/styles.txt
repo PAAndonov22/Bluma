@@ -40,6 +40,28 @@ white (FFFFFF)
 Stroke - 1pt; white (FFFFFF); 100%; outside
 
 
+*other headings:
+"Jura"
+60pt
+white (FFFFFF)
+100%
+Stroke - 0.5pt; white (FFFFFF); 100%; outside
+
+
+*text under the headings:
+"Jura"
+white(FFFFFF)
+100%
+23pt
+
+
+*sources:
+"Jura"
+white(FFFFFF)
+100%
+30pt
+
 
 Here is the link of "home page" in figma:
-https://www.figma.com/file/31J5BTF6EJdNy8C8u1Ca85/home-page?type=design&node-id=0-1&t=p6XNoYV8sxfRreWZ-0
+https://www.figma.com/file/31J5BTF6EJdNy8C8u1Ca85/home-page?type=design&node-id=0-1&t=3sFqHBQo96W5Y9ud-0
+
