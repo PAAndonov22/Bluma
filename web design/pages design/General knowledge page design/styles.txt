@@ -55,5 +55,5 @@ Stroke - 1pt; white (FFFFFF); 100%; outside
 
 
 
-Here is the link of "home page" in figma:
+Here is the link of "general knowledge" in figma:
 https://www.figma.com/file/YPUTrSzkMPafOeNGNRsjUZ/general-knowledge-page?type=design&node-id=0-1&t=359O1MYoG862FOPm-0
