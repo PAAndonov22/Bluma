@@ -1,0 +1,51 @@
+*background colour:
+001D3E
+100%
+
+*text font:
+"Jura"
+white(FFFFFF)
+100%
+23pt
+
+*button fill (the oval):
+7DD8FF
+50%
+
+*buttons (nav bar):
+"Jura"
+white(FFFFFF)
+100%
+23pt
+Stroke - 1pt; white (FFFFFF); 100%; outside
+Effects - Drop shadow
+
+*heading "Software engineering":
+"Jura"
+50pt
+white (FFFFFF)
+100%
+Stroke - 1pt; white (FFFFFF); 100%; outside
+Effects - Inner shadow
+
+*line:
+Stroke - white(FFFFFF); 100%
+1.75pt
+
+*team name (BLUMA)
+"Jura"
+27pt
+white (FFFFFF)
+100%
+Stroke - 1pt; white (FFFFFF); 100%; outside
+
+*skills:
+"Jura"
+27pt
+white (FFFFFF)
+100%
+Stroke - 1pt; white (FFFFFF); 100%; outside
+
+
+Here is the link of "software engineering" in figma:
+https://www.figma.com/file/jAMIpdC8zWoDe3c4k3MaqJ/Software-engineering-page?type=design&node-id=0-1&t=PCY0Dg9pflVEG33Q-0
