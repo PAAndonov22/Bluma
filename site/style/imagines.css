@@ -1,0 +1,26 @@
+#img1
+{
+    position: absolute;
+    width: 30vw;
+    height: auto;
+    left: 2%;
+    transform: translate(30%);
+}
+#img2
+{
+    top: 230%;
+    left: 42%;
+    transform: translate(50%);
+    position: absolute;
+    width: 506px;
+    height: 406px;
+}
+#img3
+{
+    top: 305%;
+    left: 44%;
+    transform: translate(50%);
+    position: absolute;
+    width: 514px;
+    height: 362px;
+}

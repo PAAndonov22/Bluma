@@ -1,0 +1,48 @@
+.navbar
+{
+    position: sticky;
+    top: 0;
+    bottom: 0;
+    background-color: #001D3E;
+}
+.topnav 
+{
+    background-color: #001D3E;
+    overflow: hidden;
+    border-bottom: white solid;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.topnav a 
+{
+    
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 45px;
+    text-decoration: none;
+    font-size: 17pt;
+}
+.topnav a:hover 
+{
+    background-color:#7dd8ff8f;
+    color: white;
+}
+.topnav a.active
+{
+    background-color: #7DD8FF;
+    color: white;
+    border-radius: 100%;
+}
+#team{
+    float: left;
+    font-size: 17px;
+    margin-left: 5%;
+    color: white;
+    text-align: center;
+    font-size: 17pt;
+}
+.tabs
+{
+    border-radius: 100%;
+}
