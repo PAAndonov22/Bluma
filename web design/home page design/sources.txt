@@ -1,0 +1,14 @@
+sources
+
+https://en.wikipedia.org/wiki/Robotics
+https://www.captechu.edu/blog/role-of-mechatronics-engineering-robotics
+https://en.wikipedia.org/wiki/Mechatronics
+https://en.wikipedia.org/wiki/Biomedical_engineering
+https://en.wikipedia.org/wiki/Computer_engineering
+https://en.wikipedia.org/wiki/Software_engineering
+https://www.techtarget.com/whatis/definition/robotics
+https://bme.gatech.edu/bme/areas/biomedical-robotics
+https://www.cmu.edu/bme/Research/medical_devices_robotics.html
+https://educationistop.com/can-computer-engineers-work-in-robotics/
+https://www.frontiersin.org/research-topics/55665/robotics-software-engineering
+https://www.indeed.com/career-advice/finding-a-job/what-does-robotics-software-engineer-do#:~:text=A%20robotics%20software%20engineer%20is,equipment%20or%20vehicle%20robotics%20systems.
