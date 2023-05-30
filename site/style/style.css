@@ -13,14 +13,14 @@ color: white;
 }
 #div1
 {
-    height: 430px;
+    height: 630px;
 }
 #div2
 {
     left: 6%;
     position: absolute;
     width: 1322px;
-    height: 422px;
+    height: 600px;
 
     background: rgba(217, 217, 217, 0.4);
 }

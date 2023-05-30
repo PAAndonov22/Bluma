@@ -24,3 +24,18 @@
     width: 514px;
     height: 362px;
 }
+#img4
+{
+    position: absolute;
+    width: 620px;
+    height: 340px;
+    left: 34%;
+    transform: translate(50%);
+}
+#img5
+{
+    position: absolute;
+    width: 412px;
+    height: 290px;
+    left: 7.9%;
+}

@@ -2,7 +2,6 @@
 {
     position: sticky;
     top: 0;
-    bottom: 0;
     background-color: #001D3E;
 }
 .topnav 
@@ -10,8 +9,7 @@
     background-color: #001D3E;
     overflow: hidden;
     border-bottom: white solid;
-    margin-right: 40px;
-    margin-left: 40px;
+    
 }
 .topnav a 
 {
