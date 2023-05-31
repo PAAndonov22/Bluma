@@ -65,3 +65,18 @@
     overflow: hidden;
     background: rgba(125, 216, 255, 0.4);
 }
+#btn5
+{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+
+    background: rgba(125, 216, 255, 0.5);
+    left: 80%;
+    transform: translate(-40%, -135%);
+
+    font-size: 30px;
+    font-family: 'Jura';
+
+    border-radius: 10px;
+}

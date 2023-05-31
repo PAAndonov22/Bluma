@@ -249,3 +249,107 @@
 
     color: #FFFFFF;
 }
+#h7
+{
+    position: absolute;
+    width: 525px;
+    height: 202px;
+    left: 5%;
+
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+#ol1
+{
+    position: absolute;
+    width: 525px;
+    height: 202px;
+    margin-top: 5vw;
+    left: 15%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+#ol2
+{
+    position: absolute;
+    width: 525px;
+    height: 202px;
+    margin-top: 7vw;
+    left: 15%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+#ol3
+{
+    position: absolute;
+    width: 525px;
+    height: 202px;
+    margin-top: 9vw;
+    left: 15%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+#ol4
+{
+    position: absolute;
+    width: 525px;
+    height: 202px;
+    margin-top: 11vw;
+    left: 15%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+#label1
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+#label2
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+#label3
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+#label4
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
