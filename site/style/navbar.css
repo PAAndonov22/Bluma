@@ -2,12 +2,11 @@
 {
     position: sticky;
     top: 0;
-    background-color: #001D3E;
+    z-index: 1;
 }
 .topnav 
 {
-    background-color: #001D3E;
-    overflow: hidden;
+    background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);    overflow: hidden;
     border-bottom: white solid;
     
 }
@@ -17,9 +16,9 @@
     float: right;
     color: white;
     text-align: center;
-    padding: 14px 45px;
+    padding: 13px 45px;
     text-decoration: none;
-    font-size: 17pt;
+    font-size: 16pt;
 }
 .topnav a:hover 
 {
@@ -42,5 +41,5 @@
 }
 .tabs
 {
-    border-radius: 100%;
+    border-radius: 40%;
 }

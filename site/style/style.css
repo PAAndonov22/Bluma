@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Jura:wght@700&display=swap');
+
 body{
-    background-color: #001D3E;
+    background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);
     height: 100%;
     width: 100%;
     background-attachment: fixed;
@@ -14,13 +15,31 @@ color: white;
 #div1
 {
     height: 630px;
+    margin-top: 135vw;
 }
 #div2
 {
+    margin-top: 2vw;
     left: 6%;
     position: absolute;
     width: 1322px;
     height: 600px;
 
     background: rgba(217, 217, 217, 0.4);
+}
+#div3
+{
+    margin-top: 25px;
+}
+#div4
+{
+    margin-top: 2vw;
+}
+#div5
+{
+    margin-top: 35vw;
+}
+#div6
+{
+    margin-top: 5vw;
 }

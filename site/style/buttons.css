@@ -1,16 +1,16 @@
 #btn1
 {
+    margin-top: 29vw;
     position: absolute;
-    left: 75%;
+    left: 68%;
     transform: translate(100%);
     width: 161px;
     height: 95px;
     border-radius: 100%;
     font-size: 20px;
-    font-family: 'Inter';
+    font-family: 'Jura';
     border: none;
     position: relative; cursor: pointer;
     overflow: hidden;
-    z-index: 1;
     background: rgba(125, 216, 255, 0.4);
 }

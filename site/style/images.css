@@ -1,14 +1,15 @@
 #img1
 {
+    margin-top: 25vw;
     position: absolute;
     width: 30vw;
     height: auto;
     left: 2%;
-    transform: translate(30%);
+    transform: translate(28%);
 }
 #img2
 {
-    top: 230%;
+    margin-top: 62vw;
     left: 42%;
     transform: translate(50%);
     position: absolute;
@@ -17,7 +18,7 @@
 }
 #img3
 {
-    top: 305%;
+    margin-top: 102vw;
     left: 44%;
     transform: translate(50%);
     position: absolute;
@@ -26,6 +27,7 @@
 }
 #img4
 {
+    margin-top: 5vw;
     position: absolute;
     width: 620px;
     height: 340px;
@@ -34,8 +36,20 @@
 }
 #img5
 {
+    margin-top: 5vw;
     position: absolute;
     width: 412px;
     height: 290px;
     left: 7.9%;
+}
+#img6
+{
+    position: absolute;
+    margin-top: 4vw;
+
+    width: 431px;
+    height: 324px;
+    left: 50%;
+    transform: translate(50%);
+    
 }

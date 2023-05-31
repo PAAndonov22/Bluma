@@ -1,7 +1,6 @@
 #ROBOTICS
 {
     position: absolute;
-    top: 20%;
     left: 23%;
     transform: translate(-50%, -50%);
     font-size: 10vw;
@@ -20,8 +19,7 @@
     font-size: 2vw;
     line-height: 35px;
     text-align: center;
-
-    top: 13vw;
+    margin-top: 12.5vw;
     left: 6vw;     
 }
 .headings
@@ -40,6 +38,9 @@
     left: 2%;
     transform: translate(15%);
 }
+#h5{
+    margin-top: 13vw;
+}
 #text2
 {
     position: absolute;
@@ -54,17 +55,17 @@
 
     color: #FFFFFF;
     
+    margin-top: 22vw;
     left: 25%;
-    top: 125%;
     transform: translate(50%);
 }
 #h2
 {
-    top: 210%;
+    margin-top: 57vw;
 }
 #text3
 {
-    top: 240%;
+    margin-top: 69vw;
     left: 2%;
     transform: translate(15%);
 
@@ -83,12 +84,11 @@
 }
 #h3
 {
-    top: 300%;
-     
+    margin-top: 98vw;
 }
 #text4
 {
-    top: 325%;
+    margin-top: 110vw;
     left: 1%;
     transform: translate(15%);
     position: absolute;
@@ -119,6 +119,7 @@
 }
 #text6
 {
+    margin-top: 14vw;
     position: absolute;
     width: 366px;
     height: 111px;
@@ -154,6 +155,7 @@
     position: absolute;
     width: 700px;
     height: 399px;
+    margin-top: 3.5vw;
 
     font-family: 'Inter';
     font-style: normal;
@@ -164,4 +166,22 @@
     color: #FFFFFF;
     left: 20%;
     transform: translate(50%);
+}
+#text8
+{
+    position: absolute;
+    margin-top: 5vw;
+    width: 668px;
+    height: 507px;
+    left: 5%;
+    transform: translate(8%);
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+
 }
