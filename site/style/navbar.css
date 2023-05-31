@@ -20,16 +20,16 @@
     text-decoration: none;
     font-size: 16pt;
 }
-.topnav a:hover 
+.topnav a:hover
 {
-    background-color:#7dd8ff8f;
-    color: white;
+background-color:#5fbbe38f;
+color: white
 }
 .topnav a.active
 {
-    background-color: #7DD8FF;
-    color: white;
-    border-radius: 100%;
+background-color: #3eaad8;
+color: white;
+border-radius: 100%;
 }
 #team{
     float: left;
