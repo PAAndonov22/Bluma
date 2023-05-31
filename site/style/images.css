@@ -53,3 +53,30 @@
     transform: translate(50%);
     
 }
+#img7
+{
+    position: absolute;
+    width: 461px;
+    height: 312px;
+
+    left: 8%;
+    margin-top: 17vw;
+}
+#img8
+{
+    position: absolute;
+    width: 461px;
+    height: 292px;
+
+    left: 8%;
+    margin-top: 40vw;
+}
+#img9
+{
+    position: absolute;
+    width: 500px;
+    height: auto;
+    margin-top: 7vw;
+    left: 40%;
+    transform: translate(50%);
+}

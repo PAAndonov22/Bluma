@@ -185,3 +185,67 @@
     color: #FFFFFF;
 
 }
+#h5
+{
+    position: absolute;
+    width: 451px;
+    height: 59px;
+    left: 3.9%;
+    
+    
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+}
+#text9
+{
+    position: absolute;
+    width: 696px;
+    height: 534px;
+    left: 20%;
+    transform: translate(50%);
+    margin-top: 17vw;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
+#h6
+{
+    position: absolute;
+    width: 468px;
+    height: 63px;
+    left: 3.9%;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+#text10
+{
+    position: absolute;
+    width: 659px;
+    height: 396px;
+    margin-top: 5vw;
+    left: 8.5%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
