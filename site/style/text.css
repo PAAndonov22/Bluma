@@ -52,8 +52,6 @@
     font-weight: 400;
     font-size: 23px;
     line-height: 28px;
-
-    color: #FFFFFF;
     
     margin-top: 22vw;
     left: 25%;
@@ -78,9 +76,6 @@
     font-weight: 390;
     font-size: 24px;
     line-height: 27px;
-
-    color: #FFFFFF;
-
 }
 #h3
 {
@@ -100,8 +95,6 @@
     font-weight: 380;
     font-size: 27px;
     line-height: 27px;
-
-    color: #FFFFFF;
 }
 #Sources
 {
@@ -115,8 +108,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-    
-    color: #FFFFFF;
 }
 #text6
 {
@@ -132,8 +123,6 @@
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
-
-    color: #FFFFFF;
 }
 #h4 
 {
@@ -148,8 +137,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-    
-    color: #FFFFFF;
 }
 #text7
 {
@@ -164,7 +151,6 @@
     font-size: 22px;
     line-height: 26px;
 
-    color: #FFFFFF;
     left: 20%;
     transform: translate(50%);
 }
@@ -181,7 +167,6 @@
     font-size: 30px;
     line-height: 35px;
 
-    color: #FFFFFF;
     left: 5%;
 }
 #text8
@@ -199,8 +184,6 @@
     font-size: 22px;
     line-height: 26px;
 
-    color: #FFFFFF;
-
 }
 #h5
 {
@@ -215,8 +198,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-    
-    color: #FFFFFF;
 }
 #text9
 {
@@ -232,8 +213,6 @@
     font-weight: 400;
     font-size: 22px;
     line-height: 26px;
-
-    color: #FFFFFF;
 }
 #h6
 {
@@ -247,8 +226,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-
-    color: #FFFFFF;
 }
 #text10
 {
@@ -263,8 +240,6 @@
     font-weight: 400;
     font-size: 22px;
     line-height: 26px;
-
-    color: #FFFFFF;
 }
 #h7
 {
@@ -279,8 +254,6 @@
     font-weight: 400;
     font-size: 40px;
     line-height: 35px;
-
-    color: #FFFFFF;
 }
 #ol1
 {
@@ -295,8 +268,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-
-    color: #FFFFFF;
 }
 #ol2
 {
@@ -311,8 +282,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-
-    color: #FFFFFF;
 }
 #ol3
 {
@@ -327,8 +296,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-
-    color: #FFFFFF;
 }
 #ol4
 {
@@ -343,8 +310,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 35px;
-
-    color: #FFFFFF;
 }
 #label1
 {
@@ -385,8 +350,6 @@
     font-size: 50px;
     line-height: 59px;
 
-    color: #FFFFFF;
-
 }
 #h10
 {
@@ -400,7 +363,6 @@
     font-size: 50px;
     line-height: 59px;
 
-    color: #FFFFFF;
     left: 5%;
 }
 #text11
@@ -414,8 +376,6 @@
     font-weight: 400;
     font-size: 23px;
     line-height: 27px;
-
-    color: #FFFFFF;
 
     left: 12%;
     margin-top: 10vw;
@@ -432,8 +392,6 @@
     font-size: 25px;
     line-height: 30px;
 
-    color: #FFFFFF;
-
     margin-top: 16.5vw;
     left: 35%;
 }
@@ -449,7 +407,6 @@
     font-size: 23px;
     line-height: 27px;
 
-    color: #FFFFFF;
     left: 75%;
     transform: translate(-50%, -10%);
 }
@@ -464,8 +421,6 @@
     font-weight: 400;
     font-size: 23px;
     line-height: 27px;
-
-    color: #FFFFFF;
 
     left: 12%;
     margin-top: 4vw;
@@ -482,8 +437,6 @@
     font-size: 25px;
     line-height: 30px;
 
-    color: #FFFFFF;
-
     margin-top: 25vw;
     left: 80%;
 }
@@ -498,8 +451,6 @@
     font-weight: 400;
     font-size: 23px;
     line-height: 27px;
-
-    color: #FFFFFF;
 
     margin-top: 35vw;
     left: 35%;
@@ -516,15 +467,13 @@
     font-size: 25px;
     line-height: 30px;
 
-    color: #FFFFFF;
-
     margin-top: 51vw;
     left: 27%;
 }
 #text18
 {
     position: absolute;
-    width: 676px;
+    width: text6px;
     height: 446px;
 
     font-family: 'Inter';
@@ -532,8 +481,6 @@
     font-weight: 400;
     font-size: 23px;
     line-height: 27px;
-
-    color: #FFFFFF;
 
     left: 12%;
 }
@@ -549,9 +496,62 @@
     font-size: 25px;
     line-height: 30px;
 
-    color: #FFFFFF;
-
     margin-top: 18vw;
     left: 83%;
+}
+#h11
+{
+    position: absolute;
+    width: 582px;
+    height: 67px;
 
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 59px;
+
+    left: 7%;
+}
+#text20
+{
+    position: absolute;
+    width: 574px;
+    height: 346px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+
+    left: 13%;
+}
+#text21
+{
+    position: absolute;
+    width: 523px;
+    height: 394px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+
+    left: 67%;
+    transform: translate(-50%, -10%);
+}
+#text22
+{
+    position: absolute;
+    width: 497px;
+    height: 408px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 13%;
 }
