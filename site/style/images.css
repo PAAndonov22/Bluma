@@ -80,3 +80,11 @@
     left: 40%;
     transform: translate(50%);
 }
+#img10
+{
+    margin-top: 2vw;
+    left: 50%;
+    position: absolute;
+    width: 540px;
+    height: 608px;
+}

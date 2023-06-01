@@ -354,3 +354,20 @@
     font-weight: bold;
     color: rgb(255, 255, 255);
 }
+#h8
+{
+    position: absolute;
+    width: 840px;
+    height: 236px;
+    margin-top: 13vw;
+    left: 10%;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 59px;
+
+    color: #FFFFFF;
+
+}
