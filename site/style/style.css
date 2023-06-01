@@ -47,11 +47,7 @@ color: white;
 {
     margin-top: 8vw;
 }
-#div8
-{
-    left: 70%;
-    transform: translate(70%);
-}
+
 #input1
 {
     margin-bottom: 1.5vw;
@@ -85,11 +81,6 @@ color: white;
 
     border-radius: 10px;
 }
-#div9
-{
-    left: 10%;
-    transform: translate(10%);
-}
 #input4
 {
     margin-bottom: 1.5vw;
@@ -100,4 +91,27 @@ color: white;
     background: rgba(217, 217, 217, 0.3);
 
     border-radius: 10px;
+}
+#div8
+{
+    position: absolute;
+    left: 70%;
+}
+#div9
+{
+    margin-top: 5vw;
+    position: absolute;
+    left: 70%;
+}
+#div10
+{
+    margin-top: 10vw;
+    position: absolute;
+    left: 70%;
+}
+#div11
+{
+    margin-top: 20vw;
+    position: absolute;
+    left: 13%;
 }

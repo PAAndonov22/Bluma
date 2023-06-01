@@ -72,8 +72,8 @@
     height: 100px;
 
     background: rgba(125, 216, 255, 0.5);
-    left: 80%;
-    transform: translate(-40%, -123%);
+    margin-top: 24vw;
+    left: 70%;
 
     font-size: 40px;
     font-family: 'Jura';

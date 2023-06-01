@@ -255,7 +255,7 @@
     position: absolute;
     width: 525px;
     height: 202px;
-    left: 5%;
+    left: 7.5%;
 
 
     font-family: 'Jura';
@@ -350,6 +350,7 @@
 }
 #label4
 {
+    left: -30%;
     font-size: 30px;
     font-weight: bold;
     color: rgb(255, 255, 255);
