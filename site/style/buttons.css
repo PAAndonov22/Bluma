@@ -2,7 +2,7 @@
 {
     margin-top: 29vw;
     position: absolute;
-    left: 68%;
+    left: 64%;
     transform: translate(100%);
     width: 161px;
     height: 95px;
@@ -17,7 +17,7 @@
 }
 #btn2
 {
-    margin-top: 25vw;
+    margin-top: 27vw;
     position: absolute;
     left: 7%;
     width: 161px;
@@ -33,9 +33,9 @@
 }
 #btn3
 {
-    margin-top: 56vw;
+    margin-top: 54vw;
     position: absolute;
-    left: 68%;
+    left: 63%;
     transform: translate(100%);
     width: 161px;
     height: 95px;
@@ -52,7 +52,7 @@
 {
     margin-top: 32vw;
     position: absolute;
-    left: 35%;
+    left: 25%;
     transform: translate(100%);
     width: 161px;
     height: 95px;

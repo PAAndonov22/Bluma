@@ -27,17 +27,17 @@ color: white
 {
 background-color: #3eaad8;
 color: white;
-border-radius: 100%;
+border-radius: 50%;
 }
 #team{
     float: left;
     font-size: 17px;
-    margin-left: 5%;
+    margin-left: 10%;
     color: white;
     text-align: center;
     font-size: 17pt;
 }
 .tabs
 {
-    border-radius: 40%;
+    border-radius: 50%;
 }

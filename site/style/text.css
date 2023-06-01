@@ -168,10 +168,26 @@
     left: 20%;
     transform: translate(50%);
 }
+#h9
+{
+    position: absolute;
+    width: 359px;
+    height: 61px;
+    margin-top: 3vw;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+    left: 5%;
+}
 #text8
 {
     position: absolute;
-    margin-top: 5vw;
+    margin-top: 7vw;
     width: 668px;
     height: 507px;
     left: 5%;
