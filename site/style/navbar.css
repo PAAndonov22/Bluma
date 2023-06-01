@@ -6,7 +6,9 @@
 }
 .topnav 
 {
-    background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);    overflow: hidden;
+    top: 0;
+    background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);   
+    overflow: hidden;
     border-bottom: white solid;
 }
 .topnav a 
@@ -20,14 +22,14 @@
 }
 .topnav a:hover
 {
-background-color:#5fbbe38f;
-color: white
+    background-color:#5fbbe38f;
+    color: white
 }
 .topnav a.active
 {
-background-color: #3eaad8;
-color: white;
-border-radius: 50%;
+    background-color: #3eaad8;
+    color: white;
+    border-radius: 50%;
 }
 #team{
     float: left;

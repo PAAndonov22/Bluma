@@ -88,3 +88,44 @@
     width: 540px;
     height: 608px;
 }
+#img11
+{
+    position: absolute;
+    width: 478px;
+    height: 239px;
+
+    left: 45%;
+    transform: translate(50%);
+    margin-top: 13vw;
+}
+#img12
+{
+    position: absolute;
+    width: 436px;
+    height: 239px;
+    left: 12%;
+}
+#img13
+{
+    position: absolute;
+    width: 267px;
+    height: 365px;
+    left: 67%;
+}
+#img14
+{
+    position: absolute;
+    width: 314px;
+    height: 469px;
+
+    margin-top: 20vw;
+    left: 12%;
+}
+#img15
+{
+    position: absolute;
+    width: 421px;
+    height: 251px;
+    left: 60%;
+    margin-top: 1.5vw;
+}

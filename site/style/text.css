@@ -388,3 +388,170 @@
     color: #FFFFFF;
 
 }
+#h10
+{
+    position: absolute;
+    width: 704px;
+    height: 61px;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 59px;
+
+    color: #FFFFFF;
+    left: 5%;
+}
+#text11
+{
+    position: absolute;
+    width: 619px;
+    height: 360px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+    left: 12%;
+    margin-top: 10vw;
+}
+#text12
+{
+    position: absolute;
+    width: 132px;
+    height: 34px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+    margin-top: 16.5vw;
+    left: 35%;
+}
+#text13
+{
+    position: absolute;
+    width: 596px;
+    height: 313px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+    left: 75%;
+    transform: translate(-50%, -10%);
+}
+#text14
+{
+    position: absolute;
+    width: 577px;
+    height: 277px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+    left: 12%;
+    margin-top: 4vw;
+}
+#text15
+{
+    position: absolute;
+    width: 156px;
+    height: 45px;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+    margin-top: 25vw;
+    left: 80%;
+}
+#text16
+{
+    position: absolute;
+    width: 758px;
+    height: 302px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+    margin-top: 35vw;
+    left: 35%;
+}
+#text17
+{
+    position: absolute;
+    width: 160px;
+    height: 45px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+    margin-top: 51vw;
+    left: 27%;
+}
+#text18
+{
+    position: absolute;
+    width: 676px;
+    height: 446px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+    left: 12%;
+}
+#text19
+{
+    position: absolute;
+    width: 76px;
+    height: 38px;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+    margin-top: 18vw;
+    left: 83%;
+
+}

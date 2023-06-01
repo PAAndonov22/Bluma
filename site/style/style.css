@@ -9,8 +9,8 @@ body{
 }
 
 *{
-font-family: 'Jura';
-color: white;
+    font-family: 'Jura';
+    color: white;
 }
 #div1
 {
@@ -114,4 +114,16 @@ color: white;
     margin-top: 20vw;
     position: absolute;
     left: 13%;
+}
+#div12
+{
+    margin-top: 40vw;
+}
+#div13
+{
+    margin-top: 65vw;
+}
+#div14
+{
+    margin-top: 125vw;
 }
