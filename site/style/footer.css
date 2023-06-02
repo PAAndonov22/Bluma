@@ -3,8 +3,8 @@ footer
     position: absolute;
     width: 1286px;
     height: 300px;
-    left: 37%;
-    
+    left: 7.5%;
+    text-align: center;
     font-family: 'Jura';
     font-style: normal;
     font-weight: 400;
@@ -27,4 +27,8 @@ footer
     height: 100px;
     left: 100%;
     transform: translate(1400%, 220%);
+}
+.paragraph-spacing 
+{
+    padding-bottom: -1.5%;
 }

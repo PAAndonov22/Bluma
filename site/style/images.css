@@ -107,6 +107,7 @@
 }
 #img13
 {
+    margin-top: 3vw;
     position: absolute;
     width: 267px;
     height: 365px;
@@ -118,7 +119,7 @@
     width: 314px;
     height: 469px;
 
-    margin-top: 20vw;
+    margin-top: 15vw;
     left: 12%;
 }
 #img15

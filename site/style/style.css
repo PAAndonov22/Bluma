@@ -15,17 +15,15 @@ body{
 }
 #div_outside_footer
 {
-    height: 360px;
+    height: 350px;
     margin-top: 135vw;
 }
 #div_footer
 {
-    margin-top: 2vw;
     position: absolute;
     width: 100%;
     height: 330px;
 
-    background: rgba(217, 217, 217, 0.4);
 }
 #div3
 {
@@ -33,22 +31,29 @@ body{
 }
 #div4
 {
-    margin-top: 2vw;
+    margin-top: 5vw;
+    margin-bottom: 35vw;
 }
 #div5
 {
-    margin-top: 35vw;
+    padding-top: 5vw;
 }
 #div6
 {
-    margin-top: 5vw;
+    padding-top: 5vw;
+    margin-top: 2vw;
+}
+
+#divv8
+{
+    padding-top: 5vw;
+    margin-top: 2vw;
 }
 #div7
 {
     margin-top: 8vw;
 }
-
-#input1
+input
 {
     margin-bottom: 1.5vw;
     position: relative;
@@ -56,35 +61,11 @@ body{
     height: 37px;
     border: none;
     background: rgba(217, 217, 217, 0.3);
-
     border-radius: 10px;
 }
-#input2
+#message_input
 {
-    margin-bottom: 1.5vw;
-    position: relative;
-    width: 310px;
-    height: 37px;;
-    border: none;
-    background: rgba(217, 217, 217, 0.3);
-
-    border-radius: 10px;
-}
-#input3
-{
-    margin-bottom: 1.5vw;
-    position: relative;
-    width: 310px;
-    height: 37px;
-    border: none;
-    background: rgba(217, 217, 217, 0.3);
-
-    border-radius: 10px;
-}
-#input4
-{
-    margin-bottom: 1.5vw;
-    position: relative;
+    
     width: 800px;
     height: 190px;
     border: none;
