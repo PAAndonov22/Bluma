@@ -33,7 +33,7 @@
 }
 #btn3
 {
-    margin-top: 54vw;
+    margin-top: 47vw;
     position: absolute;
     left: 63%;
     transform: translate(100%);
@@ -73,7 +73,7 @@
 
     background: rgba(125, 216, 255, 0.5);
     margin-top: 24vw;
-    left: 70%;
+    left: 45%;
 
     font-size: 40px;
     font-family: 'Jura';

@@ -1,0 +1,30 @@
+footer
+{
+    position: absolute;
+    width: 1286px;
+    height: 300px;
+    left: 37%;
+    
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+}
+.img_github
+{
+    width: 40px;
+    height: 40px;
+}
+.img_email
+{
+    width: 40px;
+    height: 40px;
+}
+#arrow
+{
+    width: 100px;
+    height: 100px;
+    left: 100%;
+    transform: translate(1400%, 220%);
+}

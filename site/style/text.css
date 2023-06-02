@@ -1,7 +1,7 @@
 #ROBOTICS
 {
     position: absolute;
-    left: 23%;
+    left: 20%;
     transform: translate(-50%, -50%);
     font-size: 10vw;
     margin-left: 150px;
@@ -96,19 +96,7 @@
     font-size: 27px;
     line-height: 27px;
 }
-#Sources
-{
-    position: absolute;
-    text-align: center;
-    width: 1286px;
-    height: 369px;
-    
-    font-family: 'Jura';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 35px;
-}
+
 #text6
 {
     margin-top: 14vw;
@@ -473,7 +461,7 @@
 #text18
 {
     position: absolute;
-    width: text6px;
+    width: 500px;
     height: 446px;
 
     font-family: 'Inter';
