@@ -154,3 +154,32 @@
     left: 50%;
     margin-top: 5vw;
 }
+#img19
+{
+    position: absolute;
+    width: 539px;
+    height: 340px;
+    left: 50%;
+    margin-top: 3.6vw;
+}
+#img20
+{
+    position: absolute;
+    width: 529px;
+    height: 321px;
+    left: 13%;
+}
+#img21
+{
+    position: absolute;
+    width: 402px;
+    height: 285px;
+    left: 60%;
+}
+#img22
+{
+    position: absolute;
+    width: 461px;
+    height: 280px;
+    left: 12.5%;     
+}
