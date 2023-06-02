@@ -183,3 +183,57 @@
     height: 280px;
     left: 12.5%;     
 }
+#img23
+{
+    position: absolute;
+    width: 470px;
+    height: 275px;
+    left: 60%;
+}
+#img24
+{
+    position: absolute;
+    width: 471px;
+    height: 393px;
+    left: 12.5%;
+}
+#img25
+{
+    position: absolute;
+    width: 442px;
+    height: 330px;
+    left: 60%;
+    margin-top: 5vw;
+}
+#img26
+{
+    position: absolute;
+    width: 471px;
+    height: 341px;
+    left: 55%;
+    margin-top: 5vw;
+}
+#img27
+{
+    position: absolute;
+    width: 447px;
+    height: 294px;
+    left: 12.5%;
+    margin-top: 5vw;
+}
+#img28
+{
+    position: absolute;
+    width: 457px;
+    height: 323px;
+    margin-top: 5vw;
+    left: 57%;
+}
+#img29
+{
+    position: absolute;
+    width: 510px;
+    height: 360px;
+    margin-top: 8vw;
+    left: 57%;
+}
