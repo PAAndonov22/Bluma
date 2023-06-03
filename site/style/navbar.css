@@ -10,6 +10,7 @@
     background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);   
     overflow: hidden;
     border-bottom: white solid;
+    padding-top: 0.5vw;
 }
 .topnav a 
 {  
@@ -34,7 +35,7 @@
 .team{
     float: left;
     font-size: 17px;
-    margin-left: 10%;
+    margin-left: 5%;
     color: white;
     text-align: center;
     font-size: 17pt;
@@ -51,5 +52,5 @@
 }
 #Bluma
 {
-    margin-left: 8px;
+    margin-left: 6px;
 }

@@ -17,33 +17,8 @@ body{
     color: white;
 }
 
-#div3
-{
-    margin-top: 25px;
-}
-#div4
-{
-    margin-top: 5vw;
-    margin-bottom: 35vw;
-}
-#div5
-{
-    padding-top: 5vw;
-}
-#div6
-{
-    padding-top: 3vw;
-}
 
-#divv8
-{
-    padding-top: 5vw;
-    margin-top: 2vw;
-}
-#div7
-{
-    margin-top: 8vw;
-}
+
 input
 {
     margin-bottom: 2vw;
@@ -63,6 +38,10 @@ input
     background: rgba(217, 217, 217, 0.3);
 
     border-radius: 10px;
+}
+#div7
+{
+    margin-top: 8vw;
 }
 #div8
 {
@@ -86,18 +65,7 @@ input
     position: absolute;
     left: 40%;
 }
-#div12
-{
-    margin-top: 40vw;
-}
-#div13
-{
-    margin-top: 65vw;
-}
-#div14
-{
-    margin-top: 125vw;
-}
+
 #div15
 {
     margin-top: 7vw;

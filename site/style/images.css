@@ -1,61 +1,7 @@
 
 
 
-#img4
-{
-    margin-top: 5vw;
-    position: absolute;
-    width: 620px;
-    height: 340px;
-    left: 34%;
-    transform: translate(50%);
-}
-#img5
-{
-    margin-top: 5vw;
-    position: absolute;
-    width: 412px;
-    height: 290px;
-    left: 7.9%;
-}
-#img6
-{
-    position: absolute;
-    margin-top: 8vw;
 
-    width: 431px;
-    height: 324px;
-    left: 50%;
-    transform: translate(50%);
-    
-}
-#img7
-{
-    position: absolute;
-    width: 461px;
-    height: 312px;
-
-    left: 8%;
-    margin-top: 19vw;
-}
-#img8
-{
-    position: absolute;
-    width: 461px;
-    height: 292px;
-
-    left: 8%;
-    margin-top: 40vw;
-}
-#img9
-{
-    position: absolute;
-    width: 500px;
-    height: auto;
-    margin-top: 7vw;
-    left: 40%;
-    transform: translate(50%);
-}
 #img10
 {
     margin-top: 3vw;
@@ -64,48 +10,7 @@
     width: 540px;
     height: 608px;
 }
-#img11
-{
-    position: absolute;
-    width: 478px;
-    height: 239px;
 
-    left: 45%;
-    transform: translate(50%);
-    margin-top: 13vw;
-}
-#img12
-{
-    position: absolute;
-    width: 436px;
-    height: 239px;
-    left: 12%;
-}
-#img13
-{
-    margin-top: 3vw;
-    position: absolute;
-    width: 267px;
-    height: 365px;
-    left: 67%;
-}
-#img14
-{
-    position: absolute;
-    width: 314px;
-    height: 469px;
-
-    margin-top: 15vw;
-    left: 12%;
-}
-#img15
-{
-    position: absolute;
-    width: 421px;
-    height: 251px;
-    left: 60%;
-    margin-top: 1.5vw;
-}
 #img16
 {
     position: absolute;
