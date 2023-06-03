@@ -1,0 +1,266 @@
+#h17
+{
+    position: absolute;
+    width: 557px;
+    height: 68px;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 59px;
+    left: 7%;
+}
+#text34
+{
+    position: absolute;
+    width: 675px;
+    height: 293px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 12.5%;
+}
+#img23
+{
+    position: absolute;
+    width: 470px;
+    height: 275px;
+    left: 60%;
+}
+#img24
+{
+    position: absolute;
+    width: 471px;
+    height: 393px;
+    left: 12.5%;
+}
+#text35
+{
+    position: absolute;
+    width: 590px;
+    height: 381px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 65%;
+    transform: translate(-50%, -7%);
+}
+#text36
+{
+    position: absolute;
+    width: 1101px;
+    height: 205px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    margin-top: 27vw;
+    left: 12.5%;
+}
+#text37
+{
+    position: absolute;
+    width: 1101px;
+    height: 205px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    margin-top: 35vw;
+    left: 12.5%;
+}
+.h18
+{
+    position: absolute;
+    width: 400px;
+    height: 32px;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 410;
+    font-size: 27px;
+    line-height: 32px;
+    left: 9%;
+}
+#text38
+{
+    position: absolute;
+    width: 642px;
+    height: 296px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 12.5%;
+    margin-top: 3.5vw;
+
+}
+#text39
+{
+    position: absolute;
+    width: 642px;
+    height: 296px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 12.5%;
+    margin-top: 21vw;
+}
+#img25
+{
+    position: absolute;
+    width: 442px;
+    height: 330px;
+    left: 60%;
+    margin-top: 5vw;
+}
+#text40
+{
+    position: absolute;
+    width: 620px;
+    height: 439px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    margin-top: 5vw;
+    left: 12.5%;
+}
+#text41
+{
+    position: absolute;
+    width: 1088px;
+    height: 119px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    margin-top: 27.5vw;
+    left: 12.5%;
+}
+#img26
+{
+    position: absolute;
+    width: 471px;
+    height: 341px;
+    left: 55%;
+    margin-top: 5vw;
+}
+#h19
+{
+    left: 45%;
+}
+#img27
+{
+    position: absolute;
+    width: 447px;
+    height: 294px;
+    left: 12.5%;
+    margin-top: 5vw;
+}
+#text42
+{
+    position: absolute;
+    width: 594px;
+    height: 402px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 49%;
+    margin-top: 5vw;
+}
+#text43
+{
+    position: absolute;
+    width: 1122px;
+    height: 78px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 12.5%;
+    margin-top: 27vw;
+}
+#text44
+{
+    position: absolute;
+    width: 647px;
+    height: 387px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    margin-top: 5vw;
+    left: 12.5%;
+}
+#img28
+{
+    position: absolute;
+    width: 457px;
+    height: 323px;
+    margin-top: 5vw;
+    left: 57%;
+}
+#text45
+{
+    position: absolute;
+    width: 1122px;
+    height: 122px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 12.5%;
+    margin-top: 27vw;
+}
+#text46
+{
+    position: absolute;
+    width: 647px;
+    height: 654px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    left: 12.5%;
+    margin-top: 5vw;
+}
+#img29
+{
+    position: absolute;
+    width: 510px;
+    height: 360px;
+    margin-top: 8vw;
+    left: 57%;
+}

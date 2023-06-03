@@ -16,85 +16,25 @@ body{
     font-family: 'Jura';
     color: white;
 }
-
-
-
-input
-{
-    margin-bottom: 2vw;
-    position: relative;
-    width: 310px;
-    height: 37px;
-    border: none;
-    background: rgba(217, 217, 217, 0.3);
-    border-radius: 10px;
+.text{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
 }
-#message_input
+
+.headings
 {
+    position: absolute;
+    width: 699px;
+    height: 180px;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 71px;
+
     
-    width: 800px;
-    height: 190px;
-    border: none;
-    background: rgba(217, 217, 217, 0.3);
-
-    border-radius: 10px;
-}
-#div7
-{
-    margin-top: 8vw;
-}
-#div8
-{
-    position: absolute;
-    left: 13%;
-}
-#div9
-{
-    margin-top: 5vw;
-    position: absolute;
-    left: 13%;
-}
-#div10
-{
-    margin-top: 10vw;
-    position: absolute;
-    left: 13%;
-}
-#div11
-{
-    position: absolute;
-    left: 40%;
-}
-
-#div15
-{
-    margin-top: 7vw;
-}
-#div16
-{
-    margin-top: 40vw;
-}
-#div17
-{
-    margin-top: 65vw;
-}
-#div18
-{
-    margin-top: 28vw;
-}
-#div19
-{
-    margin-top: 47vw;
-}
-#div20
-{
-    margin-top: 73vw;
-}
-#div21
-{
-    margin-top: 86vw;
-}
-#div22
-{
-    margin-top: 115vw;
+    left: 2%;
+    transform: translate(15%);
 }

@@ -11,6 +11,7 @@
     overflow: hidden;
     border-bottom: white solid;
     padding-top: 0.5vw;
+    transition: 0.2s;
 }
 .topnav a 
 {  
