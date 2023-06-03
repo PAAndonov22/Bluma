@@ -1,30 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Jura:wght@700&display=swap');
-
+html, body{
+    margin: 0px;
+}
 body{
     background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);
     height: 100%;
     width: 100%;
     background-attachment: fixed;
     overflow-x: hidden;
+
 }
 
 *{
     font-family: 'Jura';
     color: white;
 }
-#div_outside_footer
-{
-    height: 350px;
-    margin-top: 135vw;
-}
-#div_footer
-{
-    position: absolute;
-    width: 100%;
-    height: 330px;
 
-}
 #div3
 {
     margin-top: 25px;
@@ -40,8 +32,7 @@ body{
 }
 #div6
 {
-    padding-top: 5vw;
-    margin-top: 2vw;
+    padding-top: 3vw;
 }
 
 #divv8
@@ -55,7 +46,7 @@ body{
 }
 input
 {
-    margin-bottom: 1.5vw;
+    margin-bottom: 2vw;
     position: relative;
     width: 310px;
     height: 37px;

@@ -31,7 +31,7 @@
     color: white;
     border-radius: 50%;
 }
-#team{
+.team{
     float: left;
     font-size: 17px;
     margin-left: 10%;
@@ -42,4 +42,14 @@
 .tabs
 {
     border-radius: 50%;
+}
+#logo
+{
+    width:4%;
+    height:4%;
+    top: 0;
+}
+#Bluma
+{
+    margin-left: 8px;
 }

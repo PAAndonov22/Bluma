@@ -1,31 +1,10 @@
-#ROBOTICS
-{
-    position: absolute;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    font-size: 10vw;
-    margin-left: 150px;
-}
+
 .text{
     position: absolute;
     font-family: 'Inter';
     font-style: normal;
 }
-#robotics
-{
-    position: relative;
-    text-align: left;
-    width: 50vw;
-    height: auto;
 
-    font-family: 'Jura';
-    font-weight: 400;
-    font-size: 2vw;
-    line-height: 35px;
-    text-align: center;
-    margin-top: 12.5vw;
-    left: 6vw;     
-}
 .headings
 {
     position: absolute;
@@ -41,47 +20,6 @@
     
     left: 2%;
     transform: translate(15%);
-}
-#early_robotics
-{
-    width: 721px;
-    height: 582px;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 28px;
-    margin-top: 22vw;
-    left: 25%;
-    transform: translate(50%);
-}
-#h2
-{
-    margin-top: 57vw;
-}
-#robotics_aplication
-{
-    margin-top: 69vw;
-    left: 2%;
-    transform: translate(15%);
-    width: 700px;
-    height: 310px;
-    font-weight: 390;
-    font-size: 24px;
-    line-height: 27px;
-}
-#h3
-{
-    margin-top: 98vw;
-}
-#robotic_system
-{
-    margin-top: 110vw;
-    left: 1%;
-    transform: translate(15%);
-    width: 788px;
-    height: 256px;
-    font-weight: 380;
-    font-size: 27px;
-    line-height: 27px;
 }
 
 #robotic_fields
@@ -125,7 +63,6 @@
     position: absolute;
     width: 359px;
     height: 61px;
-    margin-top: 3vw;
 
     font-family: 'Jura';
     font-style: normal;
@@ -210,6 +147,7 @@
 }
 label
 {
+    margin-top: 4vw;
     font-size: 30px;
     font-weight: bold;
     color: rgb(255, 255, 255);
@@ -276,7 +214,7 @@ label
     line-height: 30px;
 
     margin-top: 16.5vw;
-    left: 35%;
+    left: 33.5%;
 }
 #text13
 {
@@ -290,7 +228,7 @@ label
     font-size: 23px;
     line-height: 27px;
 
-    left: 75%;
+    left: 72%;
     transform: translate(-50%, -10%);
 }
 #text14

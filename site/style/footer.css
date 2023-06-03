@@ -1,8 +1,20 @@
+#div_outside_footer
+{
+    height: 210px;
+    margin-top: 135vw;
+}
+#div_footer
+{
+    position: absolute;
+    width: 100%;
+    height: 220px;
+
+}
 footer
 {
     position: absolute;
     width: 1286px;
-    height: 300px;
+    height: 210px;
     left: 7.5%;
     text-align: center;
     font-family: 'Jura';
@@ -16,17 +28,12 @@ footer
     width: 40px;
     height: 40px;
 }
-.img_email
-{
-    width: 40px;
-    height: 40px;
-}
 #arrow
 {
     width: 100px;
     height: 100px;
     left: 100%;
-    transform: translate(1400%, 220%);
+    transform: translate(1400%, 100%);
 }
 .paragraph-spacing 
 {
