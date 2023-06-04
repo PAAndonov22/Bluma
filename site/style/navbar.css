@@ -1,57 +1,65 @@
-.navbar
-{
-    position: sticky;
-    top: 0;
-    z-index: 1;
-}
-.topnav 
-{
-    top: 0;
-    background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);   
-    overflow: hidden;
-    border-bottom: white solid;
-    padding-top: 0.5vw;
-    transition: 0.2s;
-}
-.topnav a 
-{  
-    float: right;
-    color: white;
-    text-align: center;
-    padding: 13px 45px;
-    text-decoration: none;
-    font-size: 16pt;
-}
-.topnav a:hover
-{
-    background-color:#5fbbe38f;
-    color: white
-}
-.topnav a.active
-{
-    background-color: #3eaad8;
-    color: white;
-    border-radius: 50%;
-}
-.team{
-    float: left;
-    font-size: 17px;
-    margin-left: 5%;
-    color: white;
-    text-align: center;
-    font-size: 17pt;
-}
-.tabs
-{
-    border-radius: 50%;
-}
-#logo
-{
-    width:4%;
-    height:4%;
-    top: 0;
-}
-#Bluma
-{
-    margin-left: 6px;
-}
+/*Navigation bar*/
+    /*Button on Navigation bar*/
+    
+        html, body{
+            margin: 0px;
+        }
+        .navbar
+        {
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+        .topnav 
+        {
+            top: 0;
+            background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);   
+            overflow: hidden;
+            border-bottom: white solid;
+            padding-top: 0.5vw;
+            transition: 0.2s;
+        }
+        .topnav a 
+        {  
+            float: right;
+            color: white;
+            text-align: center;
+            padding: 13px 45px;
+            text-decoration: none;
+            font-size: 16pt;
+        }
+        /*Hover to the buttons*/
+            .topnav a:hover
+            {
+                background-color:#5fbbe38f;
+                color: white
+            }
+            .topnav a.active
+            {
+                background-color: #3eaad8;
+                color: white;
+                border-radius: 50%;
+            }
+    /*Logo and name*/
+        .team{
+            float: left;
+            font-size: 17px;
+            margin-left: 5%;
+            color: white;
+            text-align: center;
+            font-size: 17pt;
+        }
+        .tabs
+        {
+            border-radius: 50%;
+        }
+        #logo
+        {
+            width:4%;
+            height:4%;
+            top: 0;
+        }
+        #Bluma
+        {
+            margin-left: 6px;
+        }

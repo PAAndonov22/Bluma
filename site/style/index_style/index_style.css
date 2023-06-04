@@ -1,157 +1,155 @@
-#ROBOTICS
-{
-    position: absolute;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    font-size: 10vw;
-    margin-left: 150px;
-    margin-top: 7vw;
-}
-.text
-{
-    position: absolute;
-    font-family: 'Inter';
-    font-style: normal;
-}
-#robot
-{
-    position: absolute;
-    width:35%;
-    height:75%;
-    left: 59%;
-    margin-top: 40px;
-    margin-right: 40px;
-}
-.headings
-{
-    position: absolute;
-    width: 699px;
-    height: 180px;
+/*main div */
+    #ROBOTICS
+    {
+        position: absolute;
+        left: 20%;
+        transform: translate(-50%, -50%);
+        font-size: 10vw;
+        margin-left: 150px;
+        margin-top: 7vw;
+    }
+    #robot
+    {
+        position: absolute;
+        width:35%;
+        height:75%;
+        left: 59%;
+        margin-top: 40px;
+        margin-right: 40px;
+    }
+    .headings
+    {
+        position: absolute;
+        width: 699px;
+        height: 180px;
 
-    font-family: 'Jura';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 71px;
+        font-family: 'Jura';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 60px;
+        line-height: 71px;
 
-    
-    left: 2%;
-    transform: translate(15%);
-}
-#robotics
-{
-    position: relative;
-    text-align: left;
-    width: 50vw;
-    height: auto;
+        
+        left: 2%;
+        transform: translate(15%);
+    }
+    #robotics
+    {
+        position: relative;
+        text-align: left;
+        width: 50vw;
+        height: auto;
 
-    font-family: 'Jura';
-    font-weight: 400;
-    font-size: 2vw;
-    line-height: 35px;
-    text-align: center;
-    margin-top: 12.5vw;
-    left: 6vw;
-    margin-top: 14vw;
-}
-#early_image
-{
-    margin-top: 25vw;
-    position: absolute;
-    width: 30vw;
-    height: auto;
-    left: 2%;
-    transform: translate(28%);
-}
-#early_robotics
-{
-    width: 721px;
-    height: 582px;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 28px;
-    margin-top: 22vw;
-    left: 25%;
-    transform: translate(50%);
-}
-#early_robotics2
-{
-    width: 721px;
-    height: 582px;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 28px;
-    margin-top: 38vw;
-    left: 27%;
-    transform: translate(50%);
-}
-#early_robotics3
-{
-    width: 721px;
-    height: 582px;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 28px;
-    margin-top: 40vw;
-    left: 27%;
-    transform: translate(50%);
-}
-#early_robotics4
-{
-    width: 721px;
-    height: 582px;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 28px;
-    margin-top: 42vw;
-    left: 27%;
-    transform: translate(50%);
-}
-#robotic_h
-{
-    margin-top: 57vw;
-}
-#robotics_aplication
-{
-    margin-top: 69vw;
-    left: 2%;
-    transform: translate(15%);
-    width: 700px;
-    height: 310px;
-    font-weight: 390;
-    font-size: 24px;
-    line-height: 27px;
-}
-#robotic_img
-{
-    margin-top: 62vw;
-    left: 42%;
-    transform: translate(50%);
-    position: absolute;
-    width: 506px;
-    height: 406px;
-}
-#pros_cons
-{
-    margin-top: 98vw;
-}
-#robotic_system
-{
-    margin-top: 110vw;
-    left: 1%;
-    transform: translate(15%);
-    width: 788px;
-    height: 256px;
-    font-weight: 380;
-    font-size: 27px;
-    line-height: 27px;
-}
-#prons_cons_img
-{
-    margin-top: 102vw;
-    left: 45%;
-    transform: translate(50%);
-    position: absolute;
-    width: 514px;
-    height: 362px;
-}
+        font-family: 'Jura';
+        font-weight: 400;
+        font-size: 2vw;
+        line-height: 35px;
+        text-align: center;
+        margin-top: 12.5vw;
+        left: 6vw;
+        margin-top: 14vw;
+    }
+/*early history div */
+    #early_image
+    {
+        margin-top: 25vw;
+        position: absolute;
+        width: 30vw;
+        height: auto;
+        left: 2%;
+        transform: translate(28%);
+    }
+    #early_robotics
+    {
+        width: 721px;
+        height: 582px;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 28px;
+        margin-top: 22vw;
+        left: 25%;
+        transform: translate(50%);
+    }
+    #early_robotics2
+    {
+        width: 721px;
+        height: 582px;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 28px;
+        margin-top: 38vw;
+        left: 27%;
+        transform: translate(50%);
+    }
+    #early_robotics3
+    {
+        width: 721px;
+        height: 582px;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 28px;
+        margin-top: 40vw;
+        left: 27%;
+        transform: translate(50%);
+    }
+    #early_robotics4
+    {
+        width: 721px;
+        height: 582px;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 28px;
+        margin-top: 42vw;
+        left: 27%;
+        transform: translate(50%);
+    }
+/*robotic aplications div */
+    #robotic_h
+    {
+        margin-top: 57vw;
+    }
+    #robotics_aplication
+    {
+        margin-top: 69vw;
+        left: 2%;
+        transform: translate(15%);
+        width: 700px;
+        height: 310px;
+        font-weight: 390;
+        font-size: 24px;
+        line-height: 27px;
+    }
+    #robotic_img
+    {
+        margin-top: 62vw;
+        left: 42%;
+        transform: translate(50%);
+        position: absolute;
+        width: 506px;
+        height: 406px;
+    }
+/*pros and cons div */
+    #pros_cons
+    {
+        margin-top: 98vw;
+    }
+    #robotic_system
+    {
+        margin-top: 110vw;
+        left: 1%;
+        transform: translate(15%);
+        width: 788px;
+        height: 256px;
+        font-weight: 380;
+        font-size: 27px;
+        line-height: 27px;
+    }
+    #prons_cons_img
+    {
+        margin-top: 102vw;
+        left: 45%;
+        transform: translate(50%);
+        position: absolute;
+        width: 514px;
+        height: 362px;
+    }

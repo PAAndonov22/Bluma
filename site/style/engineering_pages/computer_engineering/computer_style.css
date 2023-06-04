@@ -1,266 +1,274 @@
-#Computer_engineering
-{
-    position: absolute;
-    width: 557px;
-    height: 68px;
+/*Comuter engineering page*/
+    /*Comuter engineering first div*/
+        #Computer_engineering
+        {
+            position: absolute;
+            width: 557px;
+            height: 68px;
 
-    font-family: 'Jura';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
-    line-height: 59px;
-    left: 7%;
-}
-#Computer_engineering_text
-{
-    position: absolute;
-    width: 675px;
-    height: 293px;
+            font-family: 'Jura';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 50px;
+            line-height: 59px;
+            left: 7%;
+        }
+        #Computer_engineering_text
+        {
+            position: absolute;
+            width: 675px;
+            height: 293px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 12.5%;
-}
-#Computer_engineering_img
-{
-    position: absolute;
-    width: 470px;
-    height: 275px;
-    left: 60%;
-}
-#Computer_engineering_img2
-{
-    position: absolute;
-    width: 471px;
-    height: 393px;
-    left: 12.5%;
-}
-#Computer_engineering_text2
-{
-    position: absolute;
-    width: 590px;
-    height: 381px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 12.5%;
+        }
+        #Computer_engineering_img
+        {
+            position: absolute;
+            width: 470px;
+            height: 275px;
+            left: 60%;
+        }
+        #Computer_engineering_img2
+        {
+            position: absolute;
+            width: 471px;
+            height: 393px;
+            left: 12.5%;
+        }
+        #Computer_engineering_text2
+        {
+            position: absolute;
+            width: 590px;
+            height: 381px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 65%;
-    transform: translate(-50%, -7%);
-}
-#Computer_engineering_text3
-{
-    position: absolute;
-    width: 1101px;
-    height: 205px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 65%;
+            transform: translate(-50%, -7%);
+        }
+        #Computer_engineering_text3
+        {
+            position: absolute;
+            width: 1101px;
+            height: 205px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    margin-top: 27vw;
-    left: 12.5%;
-}
-#Computer_engineering_text4
-{
-    position: absolute;
-    width: 1101px;
-    height: 205px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            margin-top: 27vw;
+            left: 12.5%;
+        }
+        #Computer_engineering_text4
+        {
+            position: absolute;
+            width: 1101px;
+            height: 205px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    margin-top: 35vw;
-    left: 12.5%;
-}
-.Engineer
-{
-    position: absolute;
-    width: 400px;
-    height: 32px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            margin-top: 35vw;
+            left: 12.5%;
+        }
+    /*Headings in Computer engineering*/
+        .Engineer
+        {
+            position: absolute;
+            width: 400px;
+            height: 32px;
 
-    font-family: 'Jura';
-    font-style: normal;
-    font-weight: 410;
-    font-size: 27px;
-    line-height: 32px;
-    left: 9%;
-}
-#Electronics_text
-{
-    position: absolute;
-    width: 642px;
-    height: 296px;
+            font-family: 'Jura';
+            font-style: normal;
+            font-weight: 410;
+            font-size: 27px;
+            line-height: 32px;
+            left: 9%;
+        }
+    /*Electronics engineering div*/
+        #Electronics_text
+        {
+            position: absolute;
+            width: 642px;
+            height: 296px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 12.5%;
-    margin-top: 3.5vw;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 12.5%;
+            margin-top: 3.5vw;
 
-}
-#Electronics_text2
-{
-    position: absolute;
-    width: 642px;
-    height: 296px;
+        }
+        #Electronics_text2
+        {
+            position: absolute;
+            width: 642px;
+            height: 296px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 12.5%;
-    margin-top: 21vw;
-}
-#Electronics_img
-{
-    position: absolute;
-    width: 442px;
-    height: 330px;
-    left: 60%;
-    margin-top: 5vw;
-}
-#Manufacturing_text
-{
-    position: absolute;
-    width: 620px;
-    height: 439px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 12.5%;
+            margin-top: 21vw;
+        }
+        #Electronics_img
+        {
+            position: absolute;
+            width: 442px;
+            height: 330px;
+            left: 60%;
+            margin-top: 5vw;
+        }
+    /*Manufacturing engineering div*/
+        #Manufacturing_text
+        {
+            position: absolute;
+            width: 620px;
+            height: 439px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    margin-top: 5vw;
-    left: 12.5%;
-}
-#Manufacturing_text2
-{
-    position: absolute;
-    width: 1088px;
-    height: 119px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            margin-top: 5vw;
+            left: 12.5%;
+        }
+        #Manufacturing_text2
+        {
+            position: absolute;
+            width: 1088px;
+            height: 119px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    margin-top: 27.5vw;
-    left: 12.5%;
-}
-#Manufacturing_img
-{
-    position: absolute;
-    width: 471px;
-    height: 341px;
-    left: 55%;
-    margin-top: 5vw;
-}
-#Assurance
-{
-    left: 45%;
-}
-#Assurance_img
-{
-    position: absolute;
-    width: 447px;
-    height: 294px;
-    left: 12.5%;
-    margin-top: 5vw;
-}
-#Assurance_text
-{
-    position: absolute;
-    width: 594px;
-    height: 402px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            margin-top: 27.5vw;
+            left: 12.5%;
+        }
+        #Manufacturing_img
+        {
+            position: absolute;
+            width: 471px;
+            height: 341px;
+            left: 55%;
+            margin-top: 5vw;
+        }
+    /*Assurance engineering div*/
+        #Assurance
+        {
+            left: 45%;
+        }
+        #Assurance_img
+        {
+            position: absolute;
+            width: 447px;
+            height: 294px;
+            left: 12.5%;
+            margin-top: 5vw;
+        }
+        #Assurance_text
+        {
+            position: absolute;
+            width: 594px;
+            height: 402px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 49%;
-    margin-top: 5vw;
-}
-#Assurance_text2
-{
-    position: absolute;
-    width: 1122px;
-    height: 78px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 49%;
+            margin-top: 5vw;
+        }
+        #Assurance_text2
+        {
+            position: absolute;
+            width: 1122px;
+            height: 78px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 12.5%;
-    margin-top: 27vw;
-}
-#Project_text
-{
-    position: absolute;
-    width: 647px;
-    height: 387px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 12.5%;
+            margin-top: 27vw;
+        }
+    /*Project engineering div*/
+        #Project_text
+        {
+            position: absolute;
+            width: 647px;
+            height: 387px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    margin-top: 5vw;
-    left: 12.5%;
-}
-#Project_img
-{
-    position: absolute;
-    width: 457px;
-    height: 323px;
-    margin-top: 5vw;
-    left: 57%;
-}
-#Project_text2
-{
-    position: absolute;
-    width: 1122px;
-    height: 122px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            margin-top: 5vw;
+            left: 12.5%;
+        }
+        #Project_img
+        {
+            position: absolute;
+            width: 457px;
+            height: 323px;
+            margin-top: 5vw;
+            left: 57%;
+        }
+        #Project_text2
+        {
+            position: absolute;
+            width: 1122px;
+            height: 122px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 12.5%;
-    margin-top: 27vw;
-}
-#Systems_text
-{
-    position: absolute;
-    width: 647px;
-    height: 654px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 12.5%;
+            margin-top: 27vw;
+        }
+    /*Systems engineering div*/
+        #Systems_text
+        {
+            position: absolute;
+            width: 647px;
+            height: 654px;
 
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 27px;
-    left: 12.5%;
-    margin-top: 5vw;
-}
-#Systems_img
-{
-    position: absolute;
-    width: 510px;
-    height: 360px;
-    margin-top: 8vw;
-    left: 57%;
-}
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            left: 12.5%;
+            margin-top: 5vw;
+        }
+        #Systems_img
+        {
+            position: absolute;
+            width: 510px;
+            height: 360px;
+            margin-top: 8vw;
+            left: 57%;
+        }
