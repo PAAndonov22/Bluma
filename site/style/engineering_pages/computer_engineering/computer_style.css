@@ -1,4 +1,4 @@
-#h17
+#Computer_engineering
 {
     position: absolute;
     width: 557px;
@@ -11,7 +11,7 @@
     line-height: 59px;
     left: 7%;
 }
-#text34
+#Computer_engineering_text
 {
     position: absolute;
     width: 675px;
@@ -24,21 +24,21 @@
     line-height: 27px;
     left: 12.5%;
 }
-#img23
+#Computer_engineering_img
 {
     position: absolute;
     width: 470px;
     height: 275px;
     left: 60%;
 }
-#img24
+#Computer_engineering_img2
 {
     position: absolute;
     width: 471px;
     height: 393px;
     left: 12.5%;
 }
-#text35
+#Computer_engineering_text2
 {
     position: absolute;
     width: 590px;
@@ -52,7 +52,7 @@
     left: 65%;
     transform: translate(-50%, -7%);
 }
-#text36
+#Computer_engineering_text3
 {
     position: absolute;
     width: 1101px;
@@ -66,7 +66,7 @@
     margin-top: 27vw;
     left: 12.5%;
 }
-#text37
+#Computer_engineering_text4
 {
     position: absolute;
     width: 1101px;
@@ -80,7 +80,7 @@
     margin-top: 35vw;
     left: 12.5%;
 }
-.h18
+.Engineer
 {
     position: absolute;
     width: 400px;
@@ -93,7 +93,7 @@
     line-height: 32px;
     left: 9%;
 }
-#text38
+#Electronics_text
 {
     position: absolute;
     width: 642px;
@@ -108,7 +108,7 @@
     margin-top: 3.5vw;
 
 }
-#text39
+#Electronics_text2
 {
     position: absolute;
     width: 642px;
@@ -122,7 +122,7 @@
     left: 12.5%;
     margin-top: 21vw;
 }
-#img25
+#Electronics_img
 {
     position: absolute;
     width: 442px;
@@ -130,7 +130,7 @@
     left: 60%;
     margin-top: 5vw;
 }
-#text40
+#Manufacturing_text
 {
     position: absolute;
     width: 620px;
@@ -144,7 +144,7 @@
     margin-top: 5vw;
     left: 12.5%;
 }
-#text41
+#Manufacturing_text2
 {
     position: absolute;
     width: 1088px;
@@ -158,7 +158,7 @@
     margin-top: 27.5vw;
     left: 12.5%;
 }
-#img26
+#Manufacturing_img
 {
     position: absolute;
     width: 471px;
@@ -166,11 +166,11 @@
     left: 55%;
     margin-top: 5vw;
 }
-#h19
+#Assurance
 {
     left: 45%;
 }
-#img27
+#Assurance_img
 {
     position: absolute;
     width: 447px;
@@ -178,7 +178,7 @@
     left: 12.5%;
     margin-top: 5vw;
 }
-#text42
+#Assurance_text
 {
     position: absolute;
     width: 594px;
@@ -192,7 +192,7 @@
     left: 49%;
     margin-top: 5vw;
 }
-#text43
+#Assurance_text2
 {
     position: absolute;
     width: 1122px;
@@ -206,7 +206,7 @@
     left: 12.5%;
     margin-top: 27vw;
 }
-#text44
+#Project_text
 {
     position: absolute;
     width: 647px;
@@ -220,7 +220,7 @@
     margin-top: 5vw;
     left: 12.5%;
 }
-#img28
+#Project_img
 {
     position: absolute;
     width: 457px;
@@ -228,7 +228,7 @@
     margin-top: 5vw;
     left: 57%;
 }
-#text45
+#Project_text2
 {
     position: absolute;
     width: 1122px;
@@ -242,7 +242,7 @@
     left: 12.5%;
     margin-top: 27vw;
 }
-#text46
+#Systems_text
 {
     position: absolute;
     width: 647px;
@@ -256,7 +256,7 @@
     left: 12.5%;
     margin-top: 5vw;
 }
-#img29
+#Systems_img
 {
     position: absolute;
     width: 510px;

@@ -1,4 +1,4 @@
-#h10
+#Mechatronics
 {
     position: absolute;
     width: 704px;
@@ -12,7 +12,7 @@
 
     left: 5%;
 }
-#text11
+#Mechatronics_text
 {
     position: absolute;
     width: 619px;
@@ -27,7 +27,7 @@
     left: 12%;
     margin-top: 10vw;
 }
-#img11
+#Mechatronics_img
 {
     position: absolute;
     width: 478px;
@@ -37,18 +37,18 @@
     transform: translate(50%);
     margin-top: 13vw;
 }
-#div12
+#UNIMATE_div
 {
     margin-top: 40vw;
 }
-#img12
+#UNIMATE_img
 {
     position: absolute;
     width: 436px;
     height: 239px;
     left: 12%;
 }
-#text12
+#UNIMATE_text
 {
     position: absolute;
     width: 132px;
@@ -63,7 +63,7 @@
     margin-top: 16.5vw;
     left: 33.5%;
 }
-#text13
+#UNIMATE_text2
 {
     position: absolute;
     width: 596px;
@@ -78,11 +78,11 @@
     left: 72%;
     transform: translate(-50%, -10%);
 }
-#div13
+#WABOT_ASIMO
 {
     margin-top: 65vw;
 }
-#img13
+#Wabot_img
 {
     margin-top: 3vw;
     position: absolute;
@@ -90,7 +90,7 @@
     height: 365px;
     left: 67%;
 }
-#text14
+#Wabot_text
 {
     position: absolute;
     width: 750px;
@@ -105,7 +105,7 @@
     left: 12%;
     margin-top: 4vw;
 }
-#text15
+#Wabot_text2
 {
     position: absolute;
     width: 156px;
@@ -120,7 +120,7 @@
     margin-top: 27vw;
     left: 77.5%;
 }
-#img14
+#asimo_img
 {
     position: absolute;
     width: 314px;
@@ -129,7 +129,7 @@
     margin-top: 15vw;
     left: 12%;
 }
-#text16
+#asimo_text
 {
     position: absolute;
     width: 758px;
@@ -144,7 +144,7 @@
     margin-top: 29vw;
     left: 35%;
 }
-#text17
+#asimo_text2
 {
     position: absolute;
     width: 160px;
@@ -159,11 +159,11 @@
     margin-top: 27vw;
     left: 35%;
 }
-#div14
+#Sofia_div
 {
     margin-top: 115vw;
 }
-#text18
+#Sofia_text
 {
     position: absolute;
     width: 500px;
@@ -177,7 +177,7 @@
 
     left: 12%;
 }
-#img15
+#Sofia_img
 {
     position: absolute;
     width: 421px;
@@ -185,7 +185,7 @@
     left: 60%;
     margin-top: 1.5vw;
 }
-#text19
+#Sofia_text2
 {
     position: absolute;
     width: 76px;

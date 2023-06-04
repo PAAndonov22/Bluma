@@ -1,9 +1,9 @@
-#div4
+#fields_div
 {
     margin-top: 3vw;
     margin-bottom: 35vw;
 }
-#img4
+#fields_img
 {
     margin-top: 5vw;
     position: absolute;
@@ -23,11 +23,11 @@
     font-size: 24px;
     line-height: 28px;
 }
-#div5
+#mechatronics_div
 {
     padding-top: 5vw;
 }
-#h4 
+#mechatronics 
 {
     position: absolute;
     width: 451px;
@@ -52,7 +52,7 @@
     left: 20%;
     transform: translate(50%);
 }
-#img5
+#mechatronics_img
 {
     margin-top: 5vw;
     position: absolute;
@@ -60,7 +60,7 @@
     height: 290px;
     left: 7.9%;
 }
-#h9
+#biomedical
 {
     position: absolute;
     width: 359px;
@@ -85,7 +85,7 @@
     font-size: 22px;
     line-height: 26px;
 }
-#img6
+#biomedical_img
 {
     position: absolute;
     margin-top: 8vw;
@@ -96,7 +96,7 @@
     transform: translate(50%);
     
 }
-#h5{
+#Computer{
     margin-top: 10vw;
     position: absolute;
     width: 451px;
@@ -110,7 +110,7 @@
     font-size: 30px;
     line-height: 35px;
 }
-#img7
+#Computer_img
 {
     position: absolute;
     width: 461px;
@@ -130,11 +130,11 @@
     font-size: 22px;
     line-height: 26px;
 }
-#divv8
+#Software_div
 {
     padding-top: 5vw;
 }
-#h6
+#Software
 {
     position: absolute;
     width: 468px;
@@ -157,15 +157,7 @@
     font-size: 22px;
     line-height: 26px;
 }
-#img8
-{
-    position: absolute;
-    width: 461px;
-    height: 292px;
-    left: 8%;
-    margin-top: 40vw;
-}
-#img9
+#Software_img
 {
     position: absolute;
     width: 500px;
@@ -174,7 +166,7 @@
     left: 40%;
     transform: translate(50%);
 }
-#btn1
+#mechatronics_btn
 {
     margin-top: 29vw;
     position: absolute;
@@ -191,7 +183,7 @@
     overflow: hidden;
     background: rgba(125, 216, 255, 0.4);
 }
-#btn2
+#biomedical_btn
 {
     margin-top: 27vw;
     position: absolute;
@@ -207,7 +199,7 @@
     overflow: hidden;
     background: rgba(125, 216, 255, 0.4);
 }
-#btn3
+#Computer_btn
 {
     margin-top: 42vw;
     position: absolute;
@@ -224,7 +216,7 @@
     overflow: hidden;
     background: rgba(125, 216, 255, 0.4);
 }
-#btn4
+#Software_btn
 {
     margin-top: 32vw;
     position: absolute;

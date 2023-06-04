@@ -1,4 +1,4 @@
-#h11
+#Software
 {
     position: absolute;
     width: 582px;
@@ -12,7 +12,7 @@
 
     left: 7%;
 }
-#text23
+#Software_text
 {
     position: absolute;
     width: 521px;
@@ -27,7 +27,7 @@
     margin-top: 10vw;
     left: 13%;
 }
-#img19
+#Software_img
 {
     position: absolute;
     width: 539px;
@@ -35,11 +35,11 @@
     left: 50%;
     margin-top: 3.6vw;
 }
-#div18
+#Software_div
 {
     margin-top: 28vw;
 }
-#text24
+#Software_text2
 {
     position: absolute;
     width: 1106px;
@@ -52,18 +52,18 @@
     line-height: 27px;
     left: 13%;
 }
-#div19
+#Robotics_div
 {
     margin-top: 47vw;
 }
-#img20
+#Robotics_img
 {
     position: absolute;
     width: 529px;
     height: 321px;
     left: 13%;
 }
-#text25
+#Robotics_text
 {
     position: absolute;
     width: 537px;
@@ -76,7 +76,7 @@
     line-height: 27px;
     left: 50%;
 }
-#li1{
+#Robotics_text2{
     position: absolute;
     width: 537px;
     height: 337px;
@@ -89,7 +89,7 @@
     left: 51.5%;
     margin-top: 5vw;
 }
-#li2{
+#Robotics_text3{
     position: absolute;
     width: 537px;
     height: 337px;
@@ -102,7 +102,7 @@
     left: 51.5%;
     margin-top: 7vw;
 }
-#li3{
+#Robotics_text4{
     position: absolute;
     width: 537px;
     height: 337px;
@@ -115,7 +115,7 @@
     left: 51.5%;
     margin-top: 9vw;
 }
-#li4{
+#Robotics_text5{
     position: absolute;
     width: 537px;
     height: 337px;
@@ -128,7 +128,7 @@
     left: 51.5%;
     margin-top: 13vw;
 }
-#li5{
+#Robotics_text6{
     position: absolute;
     width: 537px;
     height: 337px;
@@ -141,11 +141,11 @@
     left: 51.5%;
     margin-top:17.2vw;
 }
-#div20
+#Skills_div
 {
     margin-top: 73vw;
 }
-#text26
+#Skills_text
 {
     position: absolute;
     width: 1106px;
@@ -159,7 +159,7 @@
 
     left: 13%;
 }
-#text27
+#Skills_text2
 {
     position: absolute;
     width: 1106px;
@@ -174,11 +174,11 @@
     left: 13%;
     margin-top: 6vw;
 }
-#div21
+#skills_div
 {
     margin-top: 86vw;
 }
-#h12
+#Programming
 {
     position: absolute;
     width: 264px;
@@ -191,7 +191,7 @@
     line-height: 32px;
     left: 10%;
 }
-#text28
+#Programming_text
 {
     position: absolute;
     width: 636px;
@@ -205,14 +205,14 @@
     left: 12.5%;
     margin-top: 4vw;
 }
-#img21
+#Programming_img
 {
     position: absolute;
     width: 402px;
     height: 285px;
     left: 60%;
 }
-#h13
+#Teamworking
 {
     position: absolute;
     width: 345px;
@@ -226,7 +226,7 @@
     left: 9%;
     margin-top: 16vw;
 }
-#text29
+#Teamworking_text
 {
     position: absolute;
     width: 1107px;
@@ -240,18 +240,18 @@
     margin-top: 19vw;
     left: 12.5%;
 }
-#div22
+#Computer_div
 {
     margin-top: 115vw;
 }
-#img22
+#Computer_img
 {
     position: absolute;
     width: 461px;
     height: 280px;
     left: 12.5%;     
 }
-#h14
+#Computer
 {
     position: absolute;
     width: 456px;
@@ -265,7 +265,7 @@
     left: 65%;
     transform: translate(-50%, -48%);
 }
-#text30
+#Computer_text
 {
     position: absolute;
     width: 522px;
@@ -279,7 +279,7 @@
     margin-top: 4vw;
     left: 50%;
 }
-#h15
+#Attention
 {
     position: absolute;
     width: 444px;
@@ -292,7 +292,7 @@
     line-height: 32px;
     left: 8%;
 }
-#h16
+#Planning
 {
     position: absolute;
     width: 444px;
@@ -305,7 +305,7 @@
     line-height: 32px;
     left: 50%;
 }
-#text31
+#Attention_text
 {
     position: absolute;
     width: 477px;
@@ -319,7 +319,7 @@
     left: 12%;
     margin-top: 4vw;
 }
-#text32
+#Planning_text
 {
     position: absolute;
     width: 477px;
@@ -333,7 +333,7 @@
     left: 54.5%;
     margin-top: 4vw;
 }
-#text33
+#Planning_text2
 {
     position: absolute;
     width: 1094px;

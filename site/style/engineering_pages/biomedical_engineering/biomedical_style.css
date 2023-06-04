@@ -1,4 +1,4 @@
-#h11
+#Biomedical
 {
     position: absolute;
     width: 582px;
@@ -12,11 +12,11 @@
 
     left: 7%;
 }
-#div15
+#Biomedical_div
 {
     margin-top: 7vw;
 }
-#text20
+#Biomedical_text
 {
     position: absolute;
     width: 574px;
@@ -31,7 +31,7 @@
     left: 13%;
     margin-top: 4vw;
 }
-#img16
+#Biomedical_img
 {
     position: absolute;
     width: 433px;
@@ -40,11 +40,11 @@
     left: 60%;
     margin-top: 4vw;
 }
-#div16
+#Biomedical_robotics_div
 {
     margin-top: 40vw;
 }
-#img17
+#Biomedical_robotics_img
 {
     position: absolute;
     width: 454px;
@@ -52,7 +52,7 @@
 
     left: 13.5%;
 }
-#text21
+#Biomedical_robotics_text
 {
     position: absolute;
     width: 523px;
@@ -67,11 +67,11 @@
     left: 67%;
     transform: translate(-50%, -10%);
 }
-#div17
+#Medical_Devices_div
 {
     margin-top: 65vw;
 }
-#text22
+#Medical_Devices_text
 {
     position: absolute;
     width: 497px;
@@ -84,7 +84,7 @@
     line-height: 27px;
     left: 13%;
 }
-#img18
+#Medical_Devices_img
 {
     position: absolute;
     width: 523px;
