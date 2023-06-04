@@ -72,6 +72,39 @@
     left: 25%;
     transform: translate(50%);
 }
+#early_robotics2
+{
+    width: 721px;
+    height: 582px;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    margin-top: 38vw;
+    left: 27%;
+    transform: translate(50%);
+}
+#early_robotics3
+{
+    width: 721px;
+    height: 582px;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    margin-top: 40vw;
+    left: 27%;
+    transform: translate(50%);
+}
+#early_robotics4
+{
+    width: 721px;
+    height: 582px;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    margin-top: 42vw;
+    left: 27%;
+    transform: translate(50%);
+}
 #h2
 {
     margin-top: 57vw;

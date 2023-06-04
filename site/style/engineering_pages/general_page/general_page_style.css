@@ -97,7 +97,7 @@
     
 }
 #h5{
-    margin-top: 13vw;
+    margin-top: 10vw;
     position: absolute;
     width: 451px;
     height: 59px;
@@ -117,7 +117,7 @@
     height: 312px;
 
     left: 8%;
-    margin-top: 19vw;
+    margin-top: 15vw;
 }
 #computer_engineering
 {
@@ -125,7 +125,7 @@
     height: 534px;
     left: 20%;
     transform: translate(50%);
-    margin-top: 17vw;
+    margin-top: 15vw;
     font-weight: 400;
     font-size: 22px;
     line-height: 26px;
@@ -209,7 +209,7 @@
 }
 #btn3
 {
-    margin-top: 44vw;
+    margin-top: 42vw;
     position: absolute;
     left: 67.5%;
     transform: translate(100%);
