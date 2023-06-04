@@ -1,3 +1,17 @@
+#h11
+{
+    position: absolute;
+    width: 582px;
+    height: 67px;
+
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 59px;
+
+    left: 7%;
+}
 #text23
 {
     position: absolute;
