@@ -60,10 +60,6 @@
     height: 290px;
     left: 7.9%;
 }
-#div6
-{
-    padding-top: 3vw;
-}
 #h9
 {
     position: absolute;
@@ -137,7 +133,6 @@
 #divv8
 {
     padding-top: 5vw;
-    margin-top: 2vw;
 }
 #h6
 {
@@ -167,7 +162,6 @@
     position: absolute;
     width: 461px;
     height: 292px;
-
     left: 8%;
     margin-top: 40vw;
 }
@@ -176,7 +170,7 @@
     position: absolute;
     width: 500px;
     height: auto;
-    margin-top: 7vw;
+    margin-top: 5.5vw;
     left: 40%;
     transform: translate(50%);
 }
@@ -201,7 +195,7 @@
 {
     margin-top: 27vw;
     position: absolute;
-    left: 7%;
+    left: 9%;
     width: 161px;
     height: 95px;
     border-radius: 100%;
@@ -215,9 +209,9 @@
 }
 #btn3
 {
-    margin-top: 47vw;
+    margin-top: 44vw;
     position: absolute;
-    left: 63%;
+    left: 67.5%;
     transform: translate(100%);
     width: 161px;
     height: 95px;
