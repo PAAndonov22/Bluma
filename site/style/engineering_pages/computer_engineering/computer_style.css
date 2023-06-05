@@ -77,7 +77,14 @@
                 width: 470px;
                 height: 275px;
                 left: 60%;
-            }        
+            }
+            #Computer_engineering_img2
+            {
+                position: absolute;
+                width: 471px;
+                height: 393px;
+                left: 12.5%;
+            }     
     /*Headings in Computer engineering*/
         /*heading style*/
             .Engineer
