@@ -1,4 +1,4 @@
-<h1 align="center">First Project</h1>
+<h1 align="center">Robotics Project</h1>
 <h6 align="center">Bluma</h6>
 <p align="center">
 <img src="site/images/home page/logo.png" width="500px">
