@@ -1,357 +1,379 @@
 /*Software egineering page*/
     /*Systems engineering first div*/
-        #Software
-        {
-            position: absolute;
-            width: 582px;
-            height: 67px;
+        /*heading style*/
+            #Software
+            {
+                position: absolute;
+                width: 582px;
+                height: 67px;
 
-            font-family: 'Jura';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 50px;
-            line-height: 59px;
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 50px;
+                line-height: 59px;
 
-            left: 7%;
-        }
-        #Software_text
-        {
-            position: absolute;
-            width: 521px;
-            height: 254px;
+                left: 7%;
+            }
+        /*text style*/
+            #Software_text
+            {
+                position: absolute;
+                width: 521px;
+                height: 254px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
 
-            margin-top: 10vw;
-            left: 13%;
-        }
-        #Software_img
-        {
-            position: absolute;
-            width: 539px;
-            height: 340px;
-            left: 50%;
-            margin-top: 3.6vw;
-        }
-        #Software_div
-        {
-            margin-top: 28vw;
-        }
-        #Software_text2
-        {
-            position: absolute;
-            width: 1106px;
-            height: 219px;
-
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 13%;
-        }
+                margin-top: 10vw;
+                left: 13%;
+            }
+            #Software_text2
+            {
+                position: absolute;
+                width: 1106px;
+                height: 219px;
+    
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                left: 13%;
+            }
+        /*image style*/
+            #Software_img
+            {
+                position: absolute;
+                width: 539px;
+                height: 340px;
+                left: 50%;
+                margin-top: 3.6vw;
+            }
+        /*div style to text2*/
+            #Software_div
+            {
+                margin-top: 28vw;
+            }
     /*Robotics engineering first div*/
-        #Robotics_div
-        {
-            margin-top: 47vw;
-        }
-        #Robotics_img
-        {
-            position: absolute;
-            width: 529px;
-            height: 321px;
-            left: 13%;
-        }
-        #Robotics_text
-        {
-            position: absolute;
-            width: 537px;
-            height: 337px;
+        /*div style*/
+            #Robotics_div
+            {
+                margin-top: 47vw;
+            }
+        /*image style*/
+            #Robotics_img
+            {
+                position: absolute;
+                width: 529px;
+                height: 321px;
+                left: 13%;
+            }
+        /*text style*/
+            #Robotics_text
+            {
+                position: absolute;
+                width: 537px;
+                height: 337px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 50%;
-        }
-        #Robotics_text2{
-            position: absolute;
-            width: 537px;
-            height: 337px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                left: 50%;
+            }
+            /*ordered list style*/
+                #Robotics_text2{
+                    position: absolute;
+                    width: 537px;
+                    height: 337px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 51.5%;
-            margin-top: 5vw;
-        }
-        #Robotics_text3{
-            position: absolute;
-            width: 537px;
-            height: 337px;
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 23px;
+                    line-height: 27px;
+                    left: 51.5%;
+                    margin-top: 5vw;
+                }
+                #Robotics_text3{
+                    position: absolute;
+                    width: 537px;
+                    height: 337px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 51.5%;
-            margin-top: 7vw;
-        }
-        #Robotics_text4{
-            position: absolute;
-            width: 537px;
-            height: 337px;
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 23px;
+                    line-height: 27px;
+                    left: 51.5%;
+                    margin-top: 7vw;
+                }
+                #Robotics_text4{
+                    position: absolute;
+                    width: 537px;
+                    height: 337px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 51.5%;
-            margin-top: 9vw;
-        }
-        #Robotics_text5{
-            position: absolute;
-            width: 537px;
-            height: 337px;
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 23px;
+                    line-height: 27px;
+                    left: 51.5%;
+                    margin-top: 9vw;
+                }
+                #Robotics_text5{
+                    position: absolute;
+                    width: 537px;
+                    height: 337px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 410;
-            font-size: 25px;
-            line-height: 33px;
-            left: 51.5%;
-            margin-top: 13vw;
-        }
-        #Robotics_text6{
-            position: absolute;
-            width: 537px;
-            height: 337px;
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 410;
+                    font-size: 25px;
+                    line-height: 33px;
+                    left: 51.5%;
+                    margin-top: 13vw;
+                }
+                #Robotics_text6{
+                    position: absolute;
+                    width: 537px;
+                    height: 337px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 51.5%;
-            margin-top:17.2vw;
-        }
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 23px;
+                    line-height: 27px;
+                    left: 51.5%;
+                    margin-top:17.2vw;
+                }
     /*Skills div*/
-        #Skills_div
-        {
-            margin-top: 73vw;
-        }
-        #Skills_text
-        {
-            position: absolute;
-            width: 1106px;
-            height: 113px;
+        /*div style*/
+            #Skills_div
+            {
+                margin-top: 73vw;
+            }
+        /*text style*/
+            #Skills_text
+            {
+                position: absolute;
+                width: 1106px;
+                height: 113px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
 
-            left: 13%;
-        }
-        #Skills_text2
-        {
-            position: absolute;
-            width: 1106px;
-            height: 113px;
+                left: 13%;
+            }
+            #Skills_text2
+            {
+                position: absolute;
+                width: 1106px;
+                height: 113px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
 
-            left: 13%;
-            margin-top: 6vw;
-        }
-        #skills_div
-        {
-            margin-top: 86vw;
-        }
+                left: 13%;
+                margin-top: 6vw;
+            }
     /*Programming skills div*/
-        #Programming
-        {
-            position: absolute;
-            width: 264px;
-            height: 42px;
+        /*div style*/
+            #skills_div
+            {
+                margin-top: 86vw;
+            }
+        /*heading style*/
+            #Programming
+            {
+                position: absolute;
+                width: 264px;
+                height: 42px;
 
-            font-family: 'Jura';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 27px;
-            line-height: 32px;
-            left: 10%;
-        }
-        #Programming_text
-        {
-            position: absolute;
-            width: 636px;
-            height: 143px;
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                left: 10%;
+            }
+        /*text style*/
+            #Programming_text
+            {
+                position: absolute;
+                width: 636px;
+                height: 143px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 12.5%;
-            margin-top: 4vw;
-        }
-        #Programming_img
-        {
-            position: absolute;
-            width: 402px;
-            height: 285px;
-            left: 60%;
-        }
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                left: 12.5%;
+                margin-top: 4vw;
+            }
+        /*image style*/
+            #Programming_img
+            {
+                position: absolute;
+                width: 402px;
+                height: 285px;
+                left: 60%;
+            }
     /*Teamworking skills div*/
-        #Teamworking
-        {
-            position: absolute;
-            width: 345px;
-            height: 50px;
+        /*heading style*/
+            #Teamworking
+            {
+                position: absolute;
+                width: 345px;
+                height: 50px;
 
-            font-family: 'Jura';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 27px;
-            line-height: 32px;
-            left: 9%;
-            margin-top: 16vw;
-        }
-        #Teamworking_text
-        {
-            position: absolute;
-            width: 1107px;
-            height: 96px;
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                left: 9%;
+                margin-top: 16vw;
+            }
+        /*text style*/
+            #Teamworking_text
+            {
+                position: absolute;
+                width: 1107px;
+                height: 96px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            margin-top: 19vw;
-            left: 12.5%;
-        }
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                margin-top: 19vw;
+                left: 12.5%;
+            }
     /*Computer skills div*/
-        #Computer_div
-        {
-            margin-top: 115vw;
-        }
-        #Computer_img
-        {
-            position: absolute;
-            width: 461px;
-            height: 280px;
-            left: 12.5%;     
-        }
-        #Computer
-        {
-            position: absolute;
-            width: 456px;
-            height: 56px;
+        /*div style*/
+            #Computer_div
+            {
+                margin-top: 115vw;
+            }
+        /*image style*/
+            #Computer_img
+            {
+                position: absolute;
+                width: 461px;
+                height: 280px;
+                left: 12.5%;     
+            }
+        /*heading style*/
+            #Computer
+            {
+                position: absolute;
+                width: 456px;
+                height: 56px;
 
-            font-family: 'Jura';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 27px;
-            line-height: 32px;
-            left: 65%;
-            transform: translate(-50%, -48%);
-        }
-        #Computer_text
-        {
-            position: absolute;
-            width: 522px;
-            height: 190px;
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                left: 65%;
+                transform: translate(-50%, -48%);
+            }
+        /*text style*/
+            #Computer_text
+            {
+                position: absolute;
+                width: 522px;
+                height: 190px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            margin-top: 4vw;
-            left: 50%;
-        }
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                margin-top: 4vw;
+                left: 50%;
+            }
     /*Attention and Planing div*/
-        #Attention
-        {
-            position: absolute;
-            width: 444px;
-            height: 73px;
+        /*heading style*/
+            #Attention
+            {
+                position: absolute;
+                width: 444px;
+                height: 73px;
 
-            font-family: 'Jura';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 27px;
-            line-height: 32px;
-            left: 8%;
-        }
-        #Planning
-        {
-            position: absolute;
-            width: 444px;
-            height: 73px;
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                left: 8%;
+            }
+            #Planning
+            {
+                position: absolute;
+                width: 444px;
+                height: 73px;
 
-            font-family: 'Jura';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 27px;
-            line-height: 32px;
-            left: 50%;
-        }
-        #Attention_text
-        {
-            position: absolute;
-            width: 477px;
-            height: 196px;
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 27px;
+                line-height: 32px;
+                left: 50%;
+            }
+        /*text style*/
+            #Attention_text
+            {
+                position: absolute;
+                width: 477px;
+                height: 196px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 12%;
-            margin-top: 4vw;
-        }
-        #Planning_text
-        {
-            position: absolute;
-            width: 477px;
-            height: 196px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                left: 12%;
+                margin-top: 4vw;
+            }
+            #Planning_text
+            {
+                position: absolute;
+                width: 477px;
+                height: 196px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 54.5%;
-            margin-top: 4vw;
-        }
-        #Planning_text2
-        {
-            position: absolute;
-            width: 1094px;
-            height: 195px;
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                left: 54.5%;
+                margin-top: 4vw;
+            }
+            #Planning_text2
+            {
+                position: absolute;
+                width: 1094px;
+                height: 195px;
 
-            font-family: 'Inter';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 23px;
-            line-height: 27px;
-            left: 12%;
-            margin-top: 17vw;
-        }
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                left: 12%;
+                margin-top: 17vw;
+            }
