@@ -7,8 +7,8 @@
 
 ## 🖥 Team Members:
 * **Panayot Andonov** - *Scrum trainer* 
-* **Dean Petkov** - *Back-end developer* 
-* **Konstantin Nachev** - *Back-end developer* 
+* **Dean Petkov** - *Front-end developer* 
+* **Konstantin Nachev** - *Front-end developer* 
 * **Zhaklin Yankova** - *Designer* 
 
 
