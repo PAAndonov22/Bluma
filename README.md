@@ -1,7 +1,7 @@
 <h1 align="center">First Project</h1>
 <h6 align="center">Bluma</h6>
 <p align="center">
-<img src="C:\Users\GigaByte\Desktop\bluma\images\logo.png" width="1000px">
+<img src="site/images/home page/logo.png" width="1000px">
 </p>
 
 
