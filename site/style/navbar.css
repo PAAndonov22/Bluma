@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+html, body {
+    top: 0%;
+}
 .navbar
 {
     position: sticky;
