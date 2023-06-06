@@ -29,4 +29,4 @@ and in the future.
     
 ## License
 
-*our license - *[LICENSE.txt](https://github.com/PAAndonov22/-ItProject-/files/11667803/LICENSE.txt)
+our license - [LICENSE.txt](https://github.com/PAAndonov22/-ItProject-/files/11667803/LICENSE.txt)
