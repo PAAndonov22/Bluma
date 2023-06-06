@@ -30,3 +30,15 @@
 *This repo is all about our Robotics Project. Our task was to create an informational site
 about robotics. In the site you can find a lot of information about the robotics now, before
 and in the future.
+
+<h2><strong>Why We Chose These Topics</strong></h2>
+
+<p>Bluma's focus on mechatronics engineering, biomedical engineering, computer engineering, and software engineering stems from several key factors:</p>
+
+<ul>
+  <li><strong>Interdisciplinary Synergy:</strong> Combining expertise from different engineering disciplines allows us to create synergistic solutions.</li>
+  <li><strong>Real-World Impact:</strong> These topics have the potential to transform industries and improve quality of life.</li>
+  <li><strong>Technological Advancements:</strong> Staying at the forefront of robotics technology enables us to drive innovation.</li>
+  <li><strong>Collaboration with the Academic Community:</strong> We work closely with local universities, fostering knowledge exchange.</li>
+  <li><strong>Industry Demand:</strong> The growing demand for robotics solutions motivates our specialization in these areas.</li>
+</ul>
