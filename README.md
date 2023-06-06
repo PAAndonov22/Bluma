@@ -15,21 +15,7 @@
 ## 🚀 Languages and tools:
 
 <p align="left"> 
-<<<<<<< HEAD
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img src="word.png"/>
-    <img src="https://www.microsoft.com/en-us/microsoft-365/powerpoint"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"/>
-    <img src="https://assets.stickpng.com/thumbs/5e8cdf0a664eae000408545b.png"/>
-    <img src="https://i.pinimg.com/736x/94/40/9a/94409a775c02d7658dd6e7ba88429b63.jpg"/>
 
-
-
-
-
-=======
      <img src="./readme/instagram.png" width="50px" height="50px"> 
      <img src="./readme/teams.png" width="50px" height="50px"> 
      <img src="./readme/html.png" width="50px" height="50px"> 
@@ -39,7 +25,6 @@
      <img src="./readme/powerpoint.png" width="50px" height="50px"> 
      <img src="./readme/word.png" width="50px" height="50px"> 
      
->>>>>>> 806a56388246cea126d5b75793c6dcc503c4a1b1
 ## 📋 Description:
     
 
