@@ -2,11 +2,12 @@
 {
     position: sticky;
     top: 0;
-    background-color: #001D3E;
+    background-color: linear-gradient(115.7deg, rgb(3, 79, 135) 6.2%, rgb(0, 184, 214) 112.9%);
+    z-index: 1;
 }
 .topnav 
 {
-    background-color: #001D3E;
+    background-color: linear-gradient(115.7deg, rgb(3, 79, 135) 6.2%, rgb(0, 184, 214) 112.9%);
     overflow: hidden;
     border-bottom: white solid;
     
@@ -23,12 +24,12 @@
 }
 .topnav a:hover 
 {
-    background-color:#7dd8ff8f;
+    background-color:#5fbbe38f;
     color: white;
 }
 .topnav a.active
 {
-    background-color: #7DD8FF;
+    background-color: #3eaad8;
     color: white;
     border-radius: 100%;
 }
