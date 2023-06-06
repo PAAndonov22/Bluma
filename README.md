@@ -26,7 +26,3 @@
 *This repo is all about our Robotics Project. Our task was to create an informational site
 about robotics. In the site you can find a lot of information about the robotics now, before
 and in the future.
-    
-## License
-
-our license - [LICENSE.txt](https://github.com/PAAndonov22/-ItProject-/files/11667803/LICENSE.txt)
