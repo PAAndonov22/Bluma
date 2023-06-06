@@ -1,0 +1,131 @@
+/*Contact us page*/
+    /*Contact us div*/
+        #contact_us_div
+        {
+            margin-top: 11.5vw;
+        }
+        /*Form in div*/
+            /*Div in form for "Your name"*/
+                #form_name_div
+                {
+                    position: absolute;
+                    left: 13%;
+                }
+            /*Div in form for "E-mail"*/
+                #form_e-mail_div
+                {
+                    margin-top: 5vw;
+                    position: absolute;
+                    left: 13%;
+                }
+            /*Div in form for "Subject"*/           
+                #form_subject_div
+                {
+                    margin-top: 10vw;
+                    position: absolute;
+                    left: 13%;
+                }
+            /*Div in form for "Message"*/
+                #form_Message_div
+                {
+                    position: absolute;
+                    left: 40%;
+                }
+            /*input for every div except "form_Message_div"*/
+                input
+                {
+                    margin-bottom: 2vw;
+                    position: relative;
+                    width: 310px;
+                    height: 37px;
+                    border: none;
+                    background: rgba(217, 217, 217, 0.3);
+                    border-radius: 10px;
+                }
+            /*input for "form_Message_div"*/
+                #message_input
+                {
+                    
+                    width: 800px;
+                    height: 190px;
+                    border: none;
+                    background: rgba(217, 217, 217, 0.3);
+
+                    border-radius: 10px;
+                }
+            /*send button in form*/
+                #send_button
+                {
+                    position: absolute;
+                    width: 200px;
+                    height: 100px;
+
+                    background: rgba(125, 216, 255, 0.5);
+                    margin-top: 24vw;
+                    left: 45%;
+
+                    font-size: 40px;
+                    font-family: 'Jura';
+                    border: none;
+                    border-radius: 10px;
+                }
+            /*label for every div except "form_Message_div"*/
+                label
+                {
+                    margin-top: 4vw;
+                    font-size: 30px;
+                    font-weight: bold;
+                    color: rgb(255, 255, 255);
+                }
+            /*label for "form_Message_div"*/
+                #message_label
+                {
+                    left: -30%;
+                }
+/*Contact us page when you press button "Send"*/
+    /*text style*/
+        #thaks_information
+        {
+            position: absolute;
+            width: 840px;
+            height: 236px;
+            margin-top: 13vw;
+            left: 10%;
+
+            font-family: 'Jura';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 50px;
+            line-height: 59px;
+        }
+    /*image style*/
+        #robot
+        {
+            margin-top: 3vw;
+            left: 50%;
+            position: absolute;
+            width: 540px;
+            height: 608px;
+        }
+    /*button style*/
+        #back_to_home_page_button
+        {
+            position: absolute;
+            width: 173px;
+            height: 74px;
+            margin-top: 28vw;
+            left: 10%;
+
+            font-family: 'Jura';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 23px;
+            line-height: 27px;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            border: none;
+            color: #FFFFFF;
+            background: rgba(125, 216, 255, 0.5);
+            border-radius: 10px;
+        }

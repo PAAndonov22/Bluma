@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .navbar
 {
     position: sticky;
@@ -45,3 +46,77 @@
 {
     border-radius: 100%;
 }
+=======
+/*Navigation bar*/
+    /*Button on Navigation bar*/
+        /*make the nav bar sticky on the top*/
+            html, body{
+                margin: 0px;
+            }
+            .navbar
+            {
+                position: sticky;
+                top: 0;
+                z-index: 1;
+            }
+        /*button background style*/
+            .topnav 
+            {
+                top: 0;
+                background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);   
+                overflow: hidden;
+                border-bottom: white solid;
+                padding-top: 0.5vw;
+                transition: 0.2s;
+            }
+        /*button style*/
+            .topnav a 
+            {  
+                float: right;
+                color: white;
+                text-align: center;
+                padding: 13px 45px;
+                text-decoration: none;
+                font-size: 16pt;
+            }
+        /*Hover to the buttons*/
+            /*when the cursor is on top of the button*/
+                .topnav a:hover
+                {
+                    background-color:#5fbbe38f;
+                    color: white
+                }
+            /*when your on this page style*/
+                .topnav a.active
+                {
+                    background-color: #3eaad8;
+                    color: white;
+                    border-radius: 50%;
+                }
+            /*border radius on the buttons*/
+                .tabs
+                {
+                    border-radius: 50%;
+                }
+    /*Logo and name*/
+        .team{
+            float: left;
+            font-size: 17px;
+            margin-left: 5%;
+            color: white;
+            text-align: center;
+            font-size: 17pt;
+        }
+        /*logo style*/
+            #logo
+            {
+                width:4%;
+                height:4%;
+                top: 0;
+            }
+        /*logo text style*/
+            #Bluma
+            {
+                margin-left: 6px;
+            }
+>>>>>>> 41a4ce5cbf5858baacedbf4929e1f92f46aae9c4

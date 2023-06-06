@@ -1,0 +1,108 @@
+/*Biomedical engineering page*/
+    /*Biomedical first div*/
+        /*heading style*/
+            #Biomedical
+            {
+                position: absolute;
+                width: 582px;
+                height: 67px;
+
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 50px;
+                line-height: 59px;
+
+                left: 7%;
+            }
+        /*div style*/
+            #Biomedical_div
+            {
+                margin-top: 7vw;
+            }
+        /*text style*/
+            #Biomedical_text
+            {
+                position: absolute;
+                width: 574px;
+                height: 346px;
+
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+
+                left: 13%;
+                margin-top: 4vw;
+            }
+        /*image style*/
+            #Biomedical_img
+            {
+                position: absolute;
+                width: 433px;
+                height: 301px;
+
+                left: 60%;
+                margin-top: 4vw;
+            }
+    /*Biomedical robotics div*/
+            /*div style*/
+            #Biomedical_robotics_div
+            {
+                margin-top: 40vw;
+            }
+        /*image style*/
+            #Biomedical_robotics_img
+            {
+                position: absolute;
+                width: 454px;
+                height: 267px;
+
+                left: 13.5%;
+            }
+        /*text style*/
+            #Biomedical_robotics_text
+            {
+                position: absolute;
+                width: 523px;
+                height: 394px;
+
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+
+                left: 67%;
+                transform: translate(-50%, -10%);
+            }
+    /*Medical devices div*/
+        /*div style*/
+            #Medical_Devices_div
+            {
+                margin-top: 65vw;
+            }
+        /*text style*/
+            #Medical_Devices_text
+            {
+                position: absolute;
+                width: 497px;
+                height: 408px;
+
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 23px;
+                line-height: 27px;
+                left: 13%;
+            }
+        /*image style*/
+            #Medical_Devices_img
+            {
+                position: absolute;
+                width: 523px;
+                height: 318px;
+                left: 50%;
+                margin-top: 5vw;
+            }

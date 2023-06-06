@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Jura:wght@700&display=swap');
 body{
@@ -6,21 +7,45 @@ body{
     width: 100%;
     background-attachment: fixed;
 }
+=======
+/*font family add*/
+    @import url('https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Jura:wght@700&display=swap');
+/*Background color and size*/
+    body{
+        background: linear-gradient(109.6deg, rgb(0, 42, 91) 18.9%, rgb(60, 157, 190) 91.1%);
+        height: 100%;
+        width: 100%;
+        background-attachment: fixed;
+        overflow-x: hidden;
+>>>>>>> 41a4ce5cbf5858baacedbf4929e1f92f46aae9c4
 
-*{
-font-family: 'Jura';
-color: white;
-}
-#div1
-{
-    height: 630px;
-}
-#div2
-{
-    left: 6%;
-    position: absolute;
-    width: 1322px;
-    height: 600px;
+    }
+/*main font-family*/
+    *{
+        font-family: 'Jura';
+        color: white;
+    }
+/*text font-family*/
+    .text{
+        position: absolute;
+        font-family: 'Inter';
+        font-style: normal;
+    }
+/*headings font-family*/
+    .headings
+    {
+        position: absolute;
+        width: 699px;
+        height: 180px;
 
-    background: rgba(217, 217, 217, 0.4);
-}
+        font-family: 'Jura';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 60px;
+        line-height: 71px;
+
+        
+        left: 2%;
+        transform: translate(15%);
+    }

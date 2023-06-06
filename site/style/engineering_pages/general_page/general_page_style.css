@@ -1,0 +1,262 @@
+/*General page */
+    /*robotics field aplications div */
+        /*div style*/
+            #fields_div
+            {
+                margin-top: 3vw;
+                margin-bottom: 35vw;
+            }
+        /*image style*/
+            #fields_img
+            {
+                margin-top: 5vw;
+                position: absolute;
+                width: 620px;
+                height: 340px;
+                left: 34%;
+                transform: translate(50%);
+            }
+        /*unordered list style*/
+            #robotic_fields
+            {
+                margin-top: 16vw;
+                width: 366px;
+                height: 111px;
+                left: 5%;
+                transform: translate(15%);
+                font-weight: 400;
+                font-size: 24px;
+                line-height: 28px;
+            }
+    /*mechartronics engineering div */
+        /*div style*/
+            #mechatronics_div
+            {
+                padding-top: 5vw;
+            }
+        /*heading style*/
+            #mechatronics 
+            {
+                position: absolute;
+                width: 451px;
+                height: 59px;
+                left: 3.9%;
+                
+                
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 30px;
+                line-height: 35px;
+            }
+        /*text style*/
+            #mechatronics_engineering
+            {
+                width: 700px;
+                height: 399px;
+                margin-top: 3.5vw;
+                font-weight: 400;
+                font-size: 22px;
+                line-height: 26px;
+                left: 20%;
+                transform: translate(50%);
+            }
+        /*image style*/
+            #mechatronics_img
+            {
+                margin-top: 5vw;
+                position: absolute;
+                width: 412px;
+                height: 290px;
+                left: 7.9%;
+            }
+        /*button style*/
+            #mechatronics_btn
+            {
+                margin-top: 29vw;
+                position: absolute;
+                left: 64%;
+                transform: translate(100%);
+                width: 161px;
+                height: 95px;
+                border-radius: 100%;
+                font-size: 20px;
+                font-family: 'Jura';
+                border: none;
+                position: relative; 
+                cursor: pointer;
+                overflow: hidden;
+                background: rgba(125, 216, 255, 0.4);
+            }
+    /*biomedical engineering div */
+        /*heading style*/
+            #biomedical
+            {
+                position: absolute;
+                width: 359px;
+                height: 61px;
+
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 30px;
+                line-height: 35px;
+
+                left: 5%;
+            }
+        /*text style*/
+            #biomedical_engineering
+            {
+                margin-top: 7vw;
+                width: 668px;
+                height: 507px;
+                left: 5%;
+                transform: translate(8%);
+                font-weight: 400;
+                font-size: 22px;
+                line-height: 26px;
+            }
+        /*image style*/
+            #biomedical_img
+            {
+                position: absolute;
+                margin-top: 8vw;
+
+                width: 431px;
+                height: 324px;
+                left: 50%;
+                transform: translate(50%);
+                
+            }
+        /*button style*/
+            #biomedical_btn
+            {
+                margin-top: 27vw;
+                position: absolute;
+                left: 9%;
+                width: 161px;
+                height: 95px;
+                border-radius: 100%;
+                font-size: 20px;
+                font-family: 'Jura';
+                border: none;
+                position: relative; 
+                cursor: pointer;
+                overflow: hidden;
+                background: rgba(125, 216, 255, 0.4);
+            }
+    /*Computer engineering div */
+        /*heading style*/
+            #Computer{
+                margin-top: 10vw;
+                position: absolute;
+                width: 451px;
+                height: 59px;
+                left: 3.9%;
+                
+                
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 30px;
+                line-height: 35px;
+            }
+        /*image style*/
+            #Computer_img
+            {
+                position: absolute;
+                width: 461px;
+                height: 312px;
+
+                left: 8%;
+                margin-top: 15.5vw;
+            }
+        /*text style*/
+            #computer_engineering
+            {
+                width: 696px;
+                height: 534px;
+                left: 20%;
+                transform: translate(50%);
+                margin-top: 15vw;
+                font-weight: 400;
+                font-size: 22px;
+                line-height: 26px;
+            }
+        /*button style*/
+            #Computer_btn
+            {
+                margin-top: 42vw;
+                position: absolute;
+                left: 67.5%;
+                transform: translate(100%);
+                width: 161px;
+                height: 95px;
+                border-radius: 100%;
+                font-size: 20px;
+                font-family: 'Jura';
+                border: none;
+                position: relative; 
+                cursor: pointer;
+                overflow: hidden;
+                background: rgba(125, 216, 255, 0.4);
+            }
+    /*Software engineering div */
+        /*div style*/
+            #Software_div
+            {
+                padding-top: 5vw;
+            }
+        /*heading style*/
+            #Software
+            {
+                position: absolute;
+                width: 468px;
+                height: 63px;
+                left: 3.9%;
+
+                font-family: 'Jura';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 30px;
+                line-height: 35px;
+            }
+        /*text style*/
+            #software_engineering
+            {
+                width: 659px;
+                height: 396px;
+                margin-top: 5vw;
+                left: 8.5%;
+                font-weight: 400;
+                font-size: 22px;
+                line-height: 26px;
+            }
+        /*image style*/
+            #Software_img
+            {
+                position: absolute;
+                width: 500px;
+                height: auto;
+                margin-top: 5.5vw;
+                left: 40%;
+                transform: translate(50%);
+            }
+        /*button style*/
+            #Software_btn
+            {
+                margin-top: 32vw;
+                position: absolute;
+                left: 25%;
+                transform: translate(100%);
+                width: 161px;
+                height: 95px;
+                border-radius: 100%;
+                font-size: 20px;
+                font-family: 'Jura';
+                border: none;
+                position: relative; 
+                cursor: pointer;
+                overflow: hidden;
+                background: rgba(125, 216, 255, 0.4);
+            }
