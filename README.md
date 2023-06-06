@@ -15,7 +15,9 @@
 ## 🚀 Languages and tools:
 
 <p align="left"> 
-     <img src="web design/readme images/css.png"/> 
+     <img src="web design/readme images/instagram.png" width="50px"> 
+     
+     
 ## 📋 Description:
     
 
