@@ -36,7 +36,7 @@ and in the future.
 <p>Bluma is a cutting-edge technology company that specializes in the development and implementation of advanced robotics solutions. Our team consists of highly skilled engineers, researchers, and innovators who are passionate about pushing the boundaries of technology and creating innovative solutions that solve real-world challenges.</p>
 
      
-## 🤔 Why we chose these topics
+## 🤔 Why we chose these topics?
  
 <p>Bluma's focus on mechatronics engineering, biomedical engineering, computer engineering, and software engineering stems from several key factors:</p>
 
