@@ -21,6 +21,7 @@
         <img src="./readme/figma.png" width="50px" height="50px"> 
         <img src="./readme/vscode.png" width="50px" height="50px"> 
         <img src="./readme/powerpoint.png" width="50px" height="50px"> 
+        <img src="./readme/word.png" width="50px" height="50px"> 
        
 ## 📋 Description:
     
