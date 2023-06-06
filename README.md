@@ -31,12 +31,12 @@
 about robotics. In the site you can find a lot of information about the robotics now, before
 and in the future.
 
-🤖 <h2><strong>About Bluma</strong></h2>
+## 🤖 About Bluma:
 
 <p>Bluma is a cutting-edge technology company that specializes in the development and implementation of advanced robotics solutions. Our team consists of highly skilled engineers, researchers, and innovators who are passionate about pushing the boundaries of technology and creating innovative solutions that solve real-world challenges.</p>
 
      
-🤔 <h2><strong>Why We Chose These Topics</strong></h2>
+## 🤔 Why we chose these topics
  
 <p>Bluma's focus on mechatronics engineering, biomedical engineering, computer engineering, and software engineering stems from several key factors:</p>
 
