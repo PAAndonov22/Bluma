@@ -15,7 +15,7 @@
 ## 🚀 Languages and tools:
 <p align="left"> 
        <img src="./readme/instagram.png" width="50px" height="50px"> 
-     
+      <img src="./readme/teams.png" width="50px" height="50px"> 
       
 ## 📋 Description:
     
