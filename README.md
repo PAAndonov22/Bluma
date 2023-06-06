@@ -20,6 +20,7 @@
        <img src="./readme/css.png" width="40px" height="50px"> 
         <img src="./readme/figma.png" width="50px" height="50px"> 
         <img src="./readme/vscode.png" width="50px" height="50px"> 
+        <img src="./readme/powerpoint.png" width="50px" height="50px"> 
        
 ## 📋 Description:
     
