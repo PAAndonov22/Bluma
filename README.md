@@ -18,7 +18,7 @@
         <img src="./assets/css.png" width="40px" height="50px"> 
         <img src="./assets/vscode.png" width="40px" height="40px"> 
         <img src="./assets/powerpoint.png" width="40px" height="40px"> 
-        <img src="./assets/word.png" width="55px" height="60px"> 
+        <img src="./assets/word.png" width="55px" height="50px"> 
         <img src="./assets/teams.png" width="50px" height="50px"> 
         <img src="./assets/figma.png" width="50px" height="40px"> 
        
