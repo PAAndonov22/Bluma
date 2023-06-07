@@ -14,13 +14,13 @@
 
 ## 🚀 Languages and tools:
 <p align="left"> 
-      <img src="./readme/teams.png" width="50px" height="50px"> 
-        <img src="./readme/html.png" width="50px" height="50px"> 
-       <img src="./readme/css.png" width="40px" height="50px"> 
-        <img src="./readme/figma.png" width="50px" height="50px"> 
-        <img src="./readme/vscode.png" width="50px" height="50px"> 
-        <img src="./readme/powerpoint.png" width="50px" height="50px"> 
-        <img src="./readme/word.png" width="50px" height="50px"> 
+        <img src="./assets/html.png" width="50px" height="50px"> 
+        <img src="./assets/css.png" width="40px" height="50px"> 
+        <img src="./assets/teams.png" width="50px" height="50px"> 
+        <img src="./assets/figma.png" width="50px" height="50px"> 
+        <img src="./assets/vscode.png" width="50px" height="50px"> 
+        <img src="./assets/powerpoint.png" width="50px" height="50px"> 
+        <img src="./assets/word.png" width="50px" height="50px"> 
        
 ## 📋 Description:
     
