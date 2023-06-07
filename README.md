@@ -16,11 +16,11 @@
 <p align="left"> 
         <img src="./assets/html.png" width="50px" height="50px"> 
         <img src="./assets/css.png" width="40px" height="50px"> 
-        <img src="./assets/teams.png" width="50px" height="50px"> 
-        <img src="./assets/figma.png" width="50px" height="50px"> 
-        <img src="./assets/vscode.png" width="50px" height="50px"> 
-        <img src="./assets/powerpoint.png" width="50px" height="50px"> 
+        <img src="./assets/vscode.png" width="40px" height="40px"> 
+        <img src="./assets/powerpoint.png" width="40px" height="40px"> 
         <img src="./assets/word.png" width="50px" height="50px"> 
+        <img src="./assets/teams.png" width="50px" height="50px"> 
+        <img src="./assets/figma.png" width="50px" height="40px"> 
        
 ## 📋 Description:
     
