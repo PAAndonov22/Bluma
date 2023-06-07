@@ -69,6 +69,7 @@ html, body {
                 overflow: hidden;
                 border-bottom: white solid;
                 padding-top: 0.5vw;
+                padding-bottom: 0.5vw;
                 transition: 0.2s;
             }
         /*button style*/
@@ -78,6 +79,9 @@ html, body {
                 color: white;
                 text-align: center;
                 padding: 13px 45px;
+                
+                padding-top: 1vw;
+                padding-bottom: 1vw;
                 text-decoration: none;
                 font-size: 16pt;
             }
