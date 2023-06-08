@@ -43,6 +43,10 @@
                     height: 100px;
                     left: 100%;
                     transform: translate(1400%, 100%);
+                } 
+                .arrow
+                {
+                    margin-top: -3%;
                 }
     /*paragraph spacing to hover*/
         .paragraph-spacing 
