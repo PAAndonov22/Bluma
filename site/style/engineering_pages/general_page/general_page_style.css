@@ -90,6 +90,10 @@
             }
     /*biomedical engineering div */
         /*heading style*/
+        #Biomedical_div
+            {
+                padding-top: 5vw;
+            }
             #biomedical
             {
                 position: absolute;
